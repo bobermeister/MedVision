@@ -1,0 +1,117 @@
+//DELETE ALL
+MATCH (n)
+OPTIONAL MATCH (n)-[r]-()
+DELETE n,r
+
+//Migrate users
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/users.csv" AS csvLine
+CREATE (u:User { id: csvLine.id, firstName: csvLine.firstName, lastName: csvLine.lastName, 
+				 password: csvLine.password, enteredDate: csvLine.eneteredDate })
+				 
+				 
+//Migrate publication (with dups!)
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/publication.csv" AS csvLine
+MATCH (u:User { id: csvLine.enteredBy})
+CREATE (p:Publication { id: csvLine.id, title: csvLine.title, isbn: csvLine.isbn, 
+				 author: csvLine.author, location: csvLine.location, enteredDate: csvLine.enteredDate })
+CREATE (p)-[:ENTERED_BY]->(u)
+
+//Migrate articles - With publication
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/articleWithPublication.csv" AS csvLine
+MATCH (u:User { id: csvLine.enteredBy})
+MATCH (p:Publication { id: csvLine.publicationId})
+CREATE (a:Article:Source { id: csvLine.id, title: csvLine.title, abstract: csvLine.abstract, 
+				volume: toInt(csvLine.volume), issue: csvLine.issue, pages: csvLine.pages,
+				year: toInt(csvLine.year), month: toInt(csvLine.month), location: csvLine.location,
+				citation: csvLine.citation, uploadedDate: csvLine.uploadedDate, enteredDate: csvLine.enteredDate,
+				pubMedId: csvLine.pubMedId })
+CREATE (a)-[:ENTERED_BY]->(u)
+CREATE (p)-[:PUBLISH]->(a)
+
+
+//Migrate articles - Without publication
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/articleWithoutPublication.csv" AS csvLine
+MATCH (u:User { id: csvLine.enteredBy})
+CREATE (a:Article:Source { id: csvLine.id, title: csvLine.title, abstract: csvLine.abstract, 
+				volume: toInt(csvLine.volume), issue: csvLine.issue, pages: csvLine.pages,
+				year: toInt(csvLine.year), month: toInt(csvLine.month), location: csvLine.location,
+				citation: csvLine.citation, uploadedDate: csvLine.uploadedDate, enteredDate: csvLine.enteredDate,
+				pubMedId: csvLine.pubMedId })
+CREATE (a)-[:ENTERED_BY]->(u)
+
+				 
+//Migrate source (reference)
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/source.csv" AS csvLine
+MATCH (u:User { id: csvLine.enteredBy})
+CREATE (r:Reference:Source { id: csvLine.id, name: csvLine.name, enteredDate: csvLine.enteredDate })
+CREATE (r)-[:ENTERED_BY]->(u)
+
+		 
+//Migrate category (disease)
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/category.csv" AS csvLine
+MATCH (u:User { id: csvLine.enteredBy})
+CREATE (d:Disease { id: csvLine.id, name: csvLine.name, enteredDate: csvLine.enteredDate })
+CREATE (d)-[:ENTERED_BY]->(u)
+
+//Migrate disease - With Category
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/diseaseWithCategory.csv" AS csvLine
+MATCH (u:User { id: csvLine.enteredBy})
+MATCH (c:Disease { id: csvLine.categoryId})
+CREATE (d:Disease { id: csvLine.id, name: csvLine.name, enteredDate: csvLine.enteredDate })
+CREATE (d)-[:ENTERED_BY]->(u)
+CREATE (d)-[:CHILD_OF]->(c)
+
+//Migrate disease - Without Category
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/diseaseWithoutCategory.csv" AS csvLine
+MATCH (u:User { id: csvLine.enteredBy})
+CREATE (d:Disease { id: csvLine.id, name: csvLine.name, enteredDate: csvLine.enteredDate })
+CREATE (d)-[:ENTERED_BY]->(u)
+
+//Migrate modality
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/modality.csv" AS csvLine
+MATCH (u:User { id: csvLine.enteredBy})
+CREATE (m:Modality { id: csvLine.id, name: csvLine.name, enteredDate: csvLine.enteredDate })
+CREATE (m)-[:ENTERED_BY]->(u)
+
+//Migrate pathway
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/pathway.csv" AS csvLine
+MATCH (u:User { id: csvLine.enteredBy})
+CREATE (p:Pathway { id: csvLine.id, name: csvLine.name, enteredDate: csvLine.enteredDate })
+CREATE (p)-[:ENTERED_BY]->(u)
+
+//Migrate comments - modality-disease - with source
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/Comment_ModalityDiseaseWithSource.csv" AS csvLine
+MATCH (u:User { id: csvLine.enteredBy})
+MATCH (s:Source { id: csvLine.sourceId})
+MATCH (d:Disease { id: csvLine.diseaseId})
+MATCH (m:Modality { id: csvLine.modalityId})
+CREATE (mm:Memo { id: csvLine.id, subject: csvLine.subject, isClinical: csvLine.isClinical, 
+				isVivo: csvLine.isVivo, isVitro: csvLine.isVitro, enteredDate: csvLine.enteredDate })
+CREATE (mm)-[:ENTERED_BY]->(u),
+		(s)-[:MENTION]->(mm),
+		(mm)-[:MODALITY_AFFECT_DISEASE]->(d),
+		(mm)-[:MODALITY_AFFECT_DISEASE]->(m),
+		(m)-[:AFFECT {level:csvLine.level}]->(d)
+
+//Migrate comments - modality-disease - without source
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///C:/MedVision/DB/Migration/Comment_ModalityDiseaseWithoutSource.csv" AS csvLine
+MATCH (u:User { id: csvLine.enteredBy})
+MATCH (d:Disease { id: csvLine.diseaseId})
+MATCH (m:Modality { id: csvLine.modalityId})
+CREATE (mm:Memo { id: csvLine.id, subject: csvLine.subject, isClinical: csvLine.isClinical, 
+				isVivo: csvLine.isVivo, isVitro: csvLine.isVitro, enteredDate: csvLine.enteredDate })
+CREATE (mm)-[:ENTERED_BY]->(u),
+		(mm)-[:MODALITY_AFFECT_DISEASE]->(d),
+		(mm)-[:MODALITY_AFFECT_DISEASE]->(m),
+		(m)-[:AFFECT {level:csvLine.level}]->(d)

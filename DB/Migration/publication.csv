@@ -1,0 +1,743 @@
+id,title,isbn,author,location,enteredDate,enteredBy
+1,American Journal of Gastroenterology,0002-9270,,,20070218,moshe
+PB1,Integrative Cancer Therapies,1534-7354,,,20070222,kathy
+PB10,The Prostate,0270-4137,,,20070222,kathy
+PB100,"Indian journal of derm, vener. and leprol.",0378-6323,,,20070416,kathy
+PB101,Biochem Biophys Res Commun,0006-291X,,,20070416,kathy
+PB102,Antioxidants & redox signaling,1523-0864,,,20070416,kathy
+PB103,Journal of medicinal chemistry,0022-2623,,,20070416,kathy
+PB104,Current eye research,0271-3683,,,20070416,kathy
+PB105,Molecular pharmacology,0026-895X,,,20070417,kathy
+PB106,Journal of immunology,0022-1767,,,20070417,kathy
+PB107,Journal of Gastroenterology,0944-1174,,,20070421,kathy
+PB108,Lancet Oncology,1470-2045,,,20070421,kathy
+PB109,Lancet,0140-6736,,,20070421,kathy
+PB11,International Journal of Cancer,0020-7136,,,20070222,kathy
+PB110,Drug safety,0114-5916,,,20070423,kathy
+PB113,Journal of clinical psychiatry,0160-6689,,,20070423,kathy
+PB115,British Journal of Psychiatry,0007-1250,,,20070423,kathy
+PB116,Cytokine,1043-4666,,,20070425,kathy
+PB117,Chemical research in toxicology,0893-228X,,,20070426,kathy
+PB118,Journal of biological chemistry,0021-9258,,,20070426,kathy
+PB119,Disulfiram and Its Metabolites,,Peter K. Gessner and Teresa Gessner,Moshe,20070426,kathy
+PB12,Science,0193-4511,,,20070222,kathy
+PB120,Methods Find Exp Clin Pharmacol,0379-0355,,,20070429,kathy
+PB121,AIDS research and human retroviruses,0889-2229,,,20070429,kathy
+PB123,Life sciences,0024-3205,,,20070430,kathy
+PB124,Mycoses,0933-7407,,,20070430,kathy
+PB125,Int J Immunopharmacol,0192-0561,,,20070430,kathy
+PB126,Res Commun Chem Pathol Pharmacol,0034-5164,,,20070430,kathy
+PB127,Eur J Cancer Clin Oncol,0277-5379,,,20070430,kathy
+PB128,Contact dermatitis,0105-1873,,,20070502,kathy
+PB129,Experimental and toxicologic pathology,0940-2993,,,20070503,kathy
+PB13,Digestion,0012-2823,,,20070222,kathy
+PB130,Cell biochemistry and function,0263-6484,,,20070506,kathy
+PB131,Circulation research,0009-7330,,,20070507,kathy
+PB132,Journal of experimental medicine,0022-1007,,,20070507,kathy
+PB133,Nature,0028-0836,,,20070507,kathy
+PB134,Expert opinion on therapeutic targets,1472-8222,,,20070507,kathy
+PB135,International journal of tissue reactions,0250-0868,,,20070507,kathy
+PB136,Adv Exp Med Biol,0065-2598,,,20070507,kathy
+PB137,Journal of Rheumatology,0315-162X,,,20070507,kathy
+PB138,Pharmacology & toxicology,0901-9928,,,20070509,kathy
+PB139,Japanese journal of pharmacology,0021-5198,,,20070509,kathy
+PB14,Toxicology and Applied Pharmacology,0041-008X,,,20070222,kathy
+PB140,Japanese journal of cancer research,0910-5050,,,20070509,kathy
+PB141,Annu Rev Pharmacol Toxicol,0362-1642,,,20070509,kathy
+PB142,American journal of clinical oncology,0277-3732,,,20070509,kathy
+PB143,Chronobiology international,0742-0528,,,20070509,kathy
+PB144,Molecular and cellular biology,0270-7306,,,20070513,kathy
+PB145,American Journal of Otology,0192-9763,,,20070520,kathy
+PB146,CNS drug reviews,1080-563X,,,20070521,kathy
+PB147,Clinical neuropharmacology,0362-5664,,,20070521,kathy
+PB148,Expert review of neurotherapeutics,1473-7175,,,20070521,kathy
+PB149,Exp rev of neurotherapeutics,1473-7175,,,20070521,kathy
+PB15,Current Drug Targets,1389-4501,,,20070222,kathy
+PB150,Drugs of today,1699-3993,,,20070521,kathy
+PB151,Pharmacopsychiatry,0176-3679,,,20070521,kathy
+PB152,Annals of oncology,0923-7534,,,20070521,kathy
+PB153,Neurology,0028-3878,,,20070521,kathy
+PB154,Int J Immunotherapy,0255-9625,,,20070525,kathy
+PB155,International Conference on AIDS,,,,20070529,kathy
+PB156,Biotherapy,0921-299X,,,20070529,kathy
+PB157,Experimental eye research,0014-4835,,,20070610,kathy
+PB158,Antimicrobial agents and chemotherapy,0066-4804,,,20070610,kathy
+PB159,Chemico-biological interactions,0009-2797,,,20070610,kathy
+PB16,Molecular Carcinogenesis,0899-1987,,,20070222,kathy
+PB160,Arthritis and rheumatism,0004-3591,,,20070612,kathy
+PB161,Canadian journal of psychiatry,0706-7437,,,20070613,kathy
+PB162,Brain injury,0269-9052,,,20070613,kathy
+PB163,Clinical journal of pain,0749-8047,,,20070613,kathy
+PB164,American family physician,0002-838X,,,20070621,kathy
+PB165,Obesity research,1071-7323,,,20070621,kathy
+PB166,Biological psychiatry,0006-3223,,,20070623,kathy
+PB167,American journal of psychiatry,0002-953X,,,20070623,kathy
+PB168,J Am Acad Dermatol,0190-9622,,,20070628,kathy
+PB169,J Cardiovasc Pharmacol,0160-2446,,,20070628,kathy
+PB17,Radiation Research,0033-7587,,,20070224,kathy
+PB170,J Acquir Immune Defic Syndr,0894-9255,,,20070628,kathy
+PB171,J Acquir Immune Defic Syndr,0894-9255,,,20070628,kathy
+PB172,Indian journal of leprosy,0254-9395,,,20070628,kathy
+PB173,Acta leprologica,0001-5938,,,20070628,kathy
+PB174,Eur J Cardiothorac Surg,1010-7940,,,20070628,kathy
+PB175,Perfusion,0267-6591,,,20070628,kathy
+PB176,J Gastroenterol Hepatol,0815-9319,,,20070628,kathy
+PB177,J Gastroenterol Hepatol,0815-9319,,,20070628,kathy
+PB178,Journal of trauma,0022-5282,,,20070628,kathy
+PB179,Journal of neuro-oncology,0167-594X,,,20070701,kathy
+PB18,Cancer Research,0807-9749,,,20070224,kathy
+PB180,European neurology,0014-3022,,,20070701,kathy
+PB181,AIDS,0269-9370,,,20070701,kathy
+PB182,Molecular medicine,1076-1551,,,20070701,kathy
+PB183,"J Am Geriatr Soc	",0002-8614,,,20070701,kathy
+PB184,Wound repair and regeneration,1067-1927,,,20070701,kathy
+PB185,Angiology,0003-3197,,,20070702,kathy
+PB186,J Natl Med Assoc,0027-9684,,,20070702,kathy
+PB187,Journal of medicine,,,,20070702,kathy
+PB188,Clinical nephrology,0301-0430,,,20070702,kathy
+PB189,American journal of kidney diseases,0272-6386,,,20070702,kathy
+PB19,Cancer,1542-4863,,,20070224,kathy
+PB190,J Am Soc Nephrol,1046-6673,,,20070702,kathy
+PB191,NIH News,,,,20070702,kathy
+PB192,Int J Radiat Oncol Biol Phys,0360-3016,,,20070703,kathy
+PB193,Oral Surg Oral Med Oral Pathol Oral Radiol Endod,1079-2104,,,20070703,kathy
+PB194,British journal of urology,0007-1331,,,20070703,kathy
+PB195,Ry&#363;machi. [Rheumatism] (Japanese),0300-9157,,,20070703,kathy
+PB196,Medical oncology,1357-0560,,,20070704,kathy
+PB197,Radiotherapy and oncology,0167-8140,,,20070704,kathy
+PB198,Cancer biotherapy & radiopharmaceuticals,1084-9785,,,20070705,kathy
+PB199,Head & neck,1043-3074,,,20070705,kathy
+PB2,Future Oncology,1479-6694,,,20070222,kathy
+PB20,British Journal of Cancer,0007-0920,,,20070306,kathy
+PB200,Fertility and sterility,0015-0282,,,20070705,kathy
+PB202,Anesthesia and analgesia,0003-2999,,,20070705,kathy
+PB203,Radiation medicine,0288-2043,,,20070708,kathy
+PB204,Clinical & experimental metastasis,0262-0898,,,20070708,kathy
+PB205,Journal of clinical investigation,0021-9738,,,20070708,kathy
+PB206,La Ricerca in clinica e in laboratorio,0390-5748,,,20070708,kathy
+PB207,Laryngoscope,0023-852X,,,20070708,kathy
+PB208,Cancer investigation,0735-7907,,,20070708,kathy
+PB209,Supportive care in cancer,0941-4355,,,20070708,kathy
+PB21,Lasers in Surgery and Medicine,0196-8092,,,20070306,kathy
+PB210,Surgical infections,1096-2964,,,20070710,kathy
+PB211,Journal of surgical research,0022-4804,,,20070710,kathy
+PB212,Circulation,0009-7322,,,20070710,kathy
+PB213,Bulletin of Tokyo Dental College,0040-8891,,,20070710,kathy
+PB214,Biological trace element research,0163-4984,,,20070710,kathy
+PB215,Indian journal of medical research,0971-5916,,,20070710,kathy
+PB216,Int J Clin Pharmacol Ther Toxicol,0174-4879,,,20070711,kathy
+PB217,Journal of Korean medical science,1011-8934,,,20070712,kathy
+PB218,Anticancer research,0250-7005,,,20070712,kathy
+PB219,Lupus,0961-2033,,,20070712,kathy
+PB22,Journal of Laboratory and Clinical Medicine,0022-2143,,,20070307,kathy
+PB220,Diseases of the colon and rectum,0012-3706,,,20070712,kathy
+PB221,"Nephrology, dialysis, transplantation",0931-0509,,,20070712,kathy
+PB222,Surgery,0039-6060,,,20070715,kathy
+PB223,"Osteoporosis international	",0937-941X,,,20070715,kathy
+PB224,Zeitschrift f&#252;r Rheumatologie,0340-1855,,,20070715,kathy
+PB225,Nutrition,0899-9007,,,20070715,kathy
+PB226,Maturitas,0378-5122,,,20070715,kathy
+PB228,Seminars in surgical oncology,8756-0437,,,20070715,kathy
+PB229,European urology,0302-2838,,,20070716,kathy
+PB23,Bulletin du Cancer,0007-4551,,,20070307,kathy
+PB230,World journal of urology,0724-4983,,,20070716,kathy
+PB231,Investigational new drugs,0167-6997,,,20070716,kathy
+PB232,British journal of pharmacology,0007-1188,,,20070716,kathy
+PB233,Angiogenesis,0969-6970,,,20070716,kathy
+PB234,European journal of cancer,0014-2964,,,20070716,kathy
+PB235,Endocrinology,0013-7227,,,20070716,kathy
+PB236,British Medical Journal,0959-8138,,,20070723,kathy
+PB237,Current medical research and opinion,0300-7995,,,20070723,kathy
+PB238,Italian journal of gastroenterology,0392-0623,,,20070723,kathy
+PB239,Journal of hepatology,0168-8278,,,20070723,kathy
+PB24,Nature reviews. Molecular Cell Biology,1471-0072,,,20070307,kathy
+PB240,Annals of internal medicine,0003-4819,,,20070723,kathy
+PB241,Alimentary pharmacology & therapeutics,0269-2813,,,20070723,kathy
+PB242,Colorectal disease,1462-8910,,,20070725,kathy
+PB243,J Pharmacol Exp Ther,0022-3565,,,20070725,kathy
+PB244,Digestive diseases and sciences,0163-2116,,,20070726,kathy
+PB245,Novartis Foundation symposium,1528-2511,,,20070726,kathy
+PB246,International journal of colorectal disease,0179-1958,,,20070726,kathy
+PB247,World journal of gastroenterology,1007-9327,,,20070726,kathy
+PB248,Digestive and liver disease,1590-8658,,,20070729,kathy
+PB249,Diagnostic microbiology and infectious disease,0732-8893,,,20070729,kathy
+PB25,Asian Journal of Andrology,1008-682X,,,20070307,kathy
+PB250,Journal of antimicrobial chemotherapy,0305-7453,,,20070729,kathy
+PB251,Journal of chemotherapy,1120-009X,,,20070729,kathy
+PB252,Journal of chemotherapy,1120-009X,,,20070729,kathy
+PB254,Riv Eur Sci Med Farmacol,0392-291X,,,20070729,kathy
+PB255,Am J Physiol Gastrointest Liver Physiol,0193-1857,,,20070731,kathy
+PB256,Inflammopharmacology,0925-4692,,,20070731,kathy
+PB257,Annals of noninvasive electrocardiology,1082-720X,,,20070812,kathy
+PB258,Japanese journal of geriatrics,0300-9173,,,20070812,kathy
+PB259,Journal of contemporary dental practice,1526-3711,,,20070812,kathy
+PB26,International Journal of Oncology,1019-6439,,,20070307,kathy
+PB260,Journal of lower genital tract disease,1089-2591,,,20070812,kathy
+PB261,Expert opinion on pharmacotherapy,1465-6566,,,20070812,kathy
+PB262,Journal of pain and symptom management,0885-3924,,,20070812,kathy
+PB263,Brain research,0006-8993,,,20070812,kathy
+PB264,Clinical and experimental rheumatology,0392-856X,,,20070812,kathy
+PB265,Clinical neurology,0009-918X,,,20070813,kathy
+PB266,Otolaryngology--head and neck surgery,0194-5998,,,20070813,kathy
+PB267,Anesthesiology,0003-3022,,,20070813,kathy
+PB268,New York state dental journal,0028-7571,,,20070813,kathy
+PB269,Tidsskr Nor Laegeforen,0029-2001,,,20070813,kathy
+PB27,Expert Reviews of Anticancer Therapies,1473-7140,,,20070307,kathy
+PB270,Minerva stomatologica,0026-4970,,,20070819,kathy
+PB271,Clinical gastroenterology and hepatology,1542-3565,,,20070819,kathy
+PB272,Journal of clinical gastroenterology,0192-0790,,,20070819,kathy
+PB273,Journal of internal medicine,0954-6820,,,20070820,kathy
+PB274,Semin Respir Crit Care Med,1069-3424,,,20070820,kathy
+PB275,Seminars in gastrointestinal disease,1049-5118,,,20070820,kathy
+PB276,Annals of surgery,0003-4932,,,20070820,kathy
+PB277,American journal of medicine,0002-9343,,,20070820,kathy
+PB278,Surgery today,0941-1291,,,20070820,kathy
+PB279,Acta oncologica,0284-186X,,,20070820,kathy
+PB28,Leukemia Research,0145-2126,,,20070308,kathy
+PB280,Turkish journal of pediatrics,0041-4301,,,20070820,kathy
+PB281,Arch Otolaryngol Head Neck Surg,0886-4470,,,20070820,kathy
+PB282,American journal of otolaryngology,0196-0709,,,20070820,kathy
+PB283,Clinical and experimental dermatology,0307-6938,,,20070820,kathy
+PB284,Journal of pediatric surgery,0022-3468,,,20070820,kathy
+PB285,Burns,0305-4179,,,20070820,kathy
+PB286,Journal of periodontology,0022-3492,,,20070820,kathy
+PB287,Acta ophthalmologica,0001-639X,,,20070820,kathy
+PB288,Archives of dermatology,0003-987X,,,20070820,kathy
+PB289,Obstetrics and gynecology,0029-7844,,,20070820,kathy
+PB29,Blood,0006-4971,,,20070308,kathy
+PB290,Annals of pharmacotherapy,1060-0280,,,20070820,kathy
+PB291,Wiener klinische Wochenschrift,0043-5325,,,20070820,kathy
+PB292,Journal of physiology and pharmacology,0867-5910,,,20070820,kathy
+PB293,Biochem Mol Biol Int,1039-9712,,,20070820,kathy
+PB294,European journal of pediatric surgery,0939-7248,,,20070820,kathy
+PB295,Journal of radiation research,0449-3060,,,20070820,kathy
+PB296,General pharmacology,0306-3623,,,20070820,kathy
+PB297,Journal of infectious diseases,0022-1899,,,20070828,kathy
+PB298,Clinical therapeutics,0149-2918,,,20070828,kathy
+PB299,Journal of the American Medical Association,0098-7484,,,20070828,kathy
+PB30,Cell Cycle,0263-7251,,,20070308,kathy
+PB300,JAMA,0098-7484,,,20070828,kathy
+PB301,Cancer & chemotherapy,0385-0684,,,20070828,kathy
+PB302,Pain,0304-3959,,,20070828,kathy
+PB303,Spine,0362-2436,,,20070828,kathy
+PB304,Singapore medical journal,0037-5675,,,20070828,kathy
+PB305,European journal of cardio-thoracic surgery,1010-7940,,,20070828,kathy
+PB306,Journal of postgraduate medicine,0022-3859,,,20070829,kathy
+PB307,Movement disorders,0885-3185,,,20070830,kathy
+PB308,J Clin Psychopharmacol,0271-0749,,,20070830,kathy
+PB309,J Clin Psychopharm,0271-0749,,,20070830,kathy
+PB31,Clinical Cancer Research,1078-0432,,,20070311,kathy
+PB310,Psychiatria polska,0033-2674,,,20070830,kathy
+PB311,Saudi J Kidney Dis Transpl,1319-2442,,,20070830,kathy
+PB312,Saudi J Kid Dz Transpl,1319-2442,,,20070830,kathy
+PB313,Annals of neurology,0364-5134,,,20070830,kathy
+PB314,Br J Ophthalmol,0007-1161,,,20070830,kathy
+PB315,Am J Ophthalmol,0002-9394,,,20070830,kathy
+PB316,Pediatrics,0031-4005,,,20070830,kathy
+PB317,Reg Anesth Pain Med,1098-7339,,,20070830,kathy
+PB318,Rev Neurol Dis,1545-2913,,,20070830,kathy
+PB319,Revista de neurologia,0210-0010,,,20070830,kathy
+PB32,Recent Results in Cancer Research,0080-0015,,,20070311,kathy
+PB320,Headache,0017-8748,,,20070830,kathy
+PB321,Arq Neuropsiquiatr,0004-282X,,,20070830,kathy
+PB322,Acta Anaesth Taiwan,,,,20070830,kathy
+PB323,Cephalalgia,0333-1024,,,20070830,kathy
+PB324,Arch Phys Med Rehabil,0003-9993,,,20070830,kathy
+PB325,Multiple sclerosis,1352-4585,,,20070830,kathy
+PB326,J Neurol Neurosurg Psychiatry,0022-3050,,,20070830,kathy
+PB327,Substance abuse,0889-7077,,,20070830,kathy
+PB328,Prog Neuropsychopharm Biol Psych,0278-5846,,,20070830,kathy
+PB329,Bipolar disorders,1398-5647,,,20070830,kathy
+PB33,American Journal of Preventive Medicine,0749-3797,,,20070311,kathy
+PB330,Acta neurologica Scandinavica,0001-6314,,,20070830,kathy
+PB331,Acta Anaesthesiol Scand,0001-5172,,,20070830,kathy
+PB332,Epilepsia,0013-9580,,,20070830,kathy
+PB333,European surgical research.,0014-312X,,,20070909,kathy
+PB334,Tumori,0300-8916,,,20070909,kathy
+PB335,Braz J Med Biol Res,0100-879X,,,20070909,kathy
+PB336,American journal of hematology,0361-8609,,,20070909,kathy
+PB337,Physiological research,0862-8408,,,20070909,kathy
+PB338,Cancer cell,1535-6108,,,20070909,kathy
+PB339,Journal of gastrointestinal surgery,1091-255X,,,20070909,kathy
+PB34,Cancer Journal,1528-9117,,,20070311,kathy
+PB340,Int J Dermatol,0011-9059,,,20070909,kathy
+PB341,Orvosi hetilap,0030-6002,,,20070909,kathy
+PB342,Transfusion and apheresis science,1473-0502,,,20070909,kathy
+PB343,Acta virologica,0001-723X,,,20070909,kathy
+PB344,Mol Gen Mikrobiol Virusol,0208-0613,,,20070909,kathy
+PB345,Klinicheskaia meditsina,0023-2149,,,20070909,kathy
+PB346,Voprosy virusologii,0507-4088,,,20070909,kathy
+PB347,Respiration,0025-7931,,,20070910,kathy
+PB348,J Thorac Cardiovasc Surg,0022-5223,,,20070910,kathy
+PB349,J Am Coll Surg,1072-7515,,,20070910,kathy
+PB35,Current Pharmaceutical Design,1381-6128,,,20070312,kathy
+PB350,Pharmacology,0031-7012,,,20070910,kathy
+PB351,Scand J Urol Nephrol,0036-5599,,,20070910,kathy
+PB352,Int Urol Nephrol,0301-1623,,,20070910,kathy
+PB353,Parasitology research,0932-0113,,,20070910,kathy
+PB354,Int J Biochem Cell Biol,1357-2725,,,20070910,kathy
+PB355,West Virginia medical journal,0043-3284,,,20070910,kathy
+PB356,International journal of toxicology,1091-5818,,,20070910,kathy
+PB357,Stroke,0039-2499,,,20070910,kathy
+PB358,Kaohsiung journal of medical sciences,1607-551X,,,20070910,kathy
+PB359,Oncology research,0965-0407,,,20070910,kathy
+PB360,Nutrition & metabolism,1743-7075,,,20070918,kathy
+PB361,J Am Coll Nutr,0731-5724,,,20070918,kathy
+PB362,Time,,Richard Friebe,,20070918,kathy
+PB363,J Pharm Pharmaceut Sci,1482-1826,,,20070918,kathy
+PB364,Anti-cancer drugs,0959-4973,,,20070920,kathy
+PB365,Journal of natural products,0163-3864,,,20070920,kathy
+PB366,Anal Quant Cytol,0190-0471,,,20070920,kathy
+PB367,Zeitschrift fur Onkologie,,,,20070920,kathy
+PB368,Cancer Detection and Prevention,0361-090X,,,20070920,kathy
+PB369,Journal of cellular biochemistry,0730-2312,,,20070920,kathy
+PB37,Journal of the National Cancer Institute,0027-8874,,,20070313,kathy
+PB370,Gynecological endocrinology,0951-3590,,,20070920,kathy
+PB371,Agents and actions,0065-4299,,,20070920,kathy
+PB372,Cellular signalling,0898-6568,,,20070920,kathy
+PB373,Human molecular genetics,0964-6906,,,20070920,kathy
+PB374,Acta poloniae pharmaceutica,0001-6837,,,20070920,kathy
+PB375,Postgraduate Medical Journal,0032-5473,,,20070920,kathy
+PB376,Neurochemistry international,0197-0186,,,20071008,kathy
+PB377,Glia,0894-1491,,,20071008,kathy
+PB378,Am J Clin Nutr,0002-9165,,,20071011,kathy
+PB379,Minerva medica,0026-4806,,,20071014,kathy
+PB38,British Journal of Hematology,,,,20070313,kathy
+PB380,Clinics in obstetrics and gynaecology,0306-3356,,,20071014,kathy
+PB382,BJOG,1471-0528,,,20071014,kathy
+PB383,Acta Pathol Microbiol Scand,0365-4184,,,20071014,kathy
+PB384,Urologia internationalis,0042-1138,,,20071015,kathy
+PB385,American journal of therapeutics,1075-2765,,,20071015,kathy
+PB386,Chinese journal of surgery,0529-5815,,,20071015,kathy
+PB387,Neuro endocrinology letters,0172-780X,,,20071015,kathy
+PB388,Diabetes care,0149-5992,,,20071015,kathy
+PB389,Hormone research,0301-0163,,,20071015,kathy
+PB39,Emerging Infectious Diseases,1080-6040,,,20070313,moshe
+PB390,International ophthalmology,0165-5701,,,20071015,kathy
+PB391,J Med Assoc Thai,0125-2208,,,20071015,kathy
+PB392,Revista m&#233;dica de Chile,0034-9887,,,20071015,kathy
+PB393,Annales de m&#233;decine interne,0003-410X,,,20071015,kathy
+PB394,Presse m&#233;dicale,0755-4982,,,20071015,kathy
+PB395,British journal of dermatology,0007-0963,,,20071015,kathy
+PB396,Arch Dermatol Res,0340-3696,,,20071015,kathy
+PB397,Journal of neuroscience,0270-6474,,,20071015,kathy
+PB398,Chinese journal of internal medicine,0578-1426,,,20071015,kathy
+PB399,Kidney international,0085-2538,,,20071015,kathy
+PB4,Oncology,0030-2414,,,20070222,kathy
+PB40,Food Additives and Contaminants,0265-203X,,,20070313,moshe
+PB400,Journal of the Royal Society of Medicine,0141-0768,,,20071015,kathy
+PB401,Revista paulista de medicina,0035-0362,,,20071015,kathy
+PB402,J Endocrinol Invest,0391-4097,,,20071015,kathy
+PB403,Medical journal of Australia,0025-729X,,,20071015,kathy
+PB404,Surgical neurology,0090-3019,,,20071015,kathy
+PB405,Cell,0092-8674,,,20071016,kathy
+PB406,Proc West Pharmacol Soc,0083-8969,,,20071016,kathy
+PB407,Arzneimittel-Forschung,0004-4172,,,20071016,kathy
+PB409,Comprehensive psychiatry,0010-440X,,,20071016,kathy
+PB41,ACS Chemical Biology,,,,20070314,kathy
+PB410,Journal of psychiatry & neuroscience,1180-4882,,,20071016,kathy
+PB411,Annales m&#233;dico-psychologiques,0003-4487,,,20071016,kathy
+PB412,Nature medicine,1078-8956,,,20071016,kathy
+PB413,Acta psychiatrica Scandinavica,0001-690X,,,20071016,kathy
+PB414,Addiction,0965-2140,,,20071016,kathy
+PB415,J  Paediatr Child Health,1034-4810,,,20071016,kathy
+PB416,J Paediatr Child Health,1034-4810,,,20071016,kathy
+PB417,Am J Phys Med Rehabil,0894-9115,,,20071016,kathy
+PB418,Am J Phys Med Rehabil,0894-9115,,,20071016,kathy
+PB419,Arch Mal Coeur Vaiss,0003-9683,,,20071016,kathy
+PB42,International Journal of Gynecological Cancer,1048-891X,,,20070314,kathy
+PB420,Brain & development,0387-7604,,,20071016,kathy
+PB421,Annals of thoracic surgery,0003-4975,,,20071016,kathy
+PB422,Fortschritte der Ophthalmologie,0723-8045,,,20071016,kathy
+PB423,Neurological sciences,1590-1874,,,20071016,kathy
+PB424,"Brain and language	",0093-934X,,,20071016,kathy
+PB425,Journal of neurochemistry,0022-3042,,,20071016,kathy
+PB426,BMC endocrine disorders,1472-6823,,,20071016,kathy
+PB427,Journal of neurotrauma,0897-7151,,,20071016,kathy
+PB428,Atherosclerosis,0021-9150,,,20071016,kathy
+PB429,Cellular immunology,0008-8749,,,20071016,kathy
+PB43,Lung Cancer,0169-5002,,,20070314,kathy
+PB430,Clinical and experimental immunology,0009-9104,,,20071016,kathy
+PB431,Journal of clinical immunology,0271-9142,,,20071016,kathy
+PB432,Acta endocrinologica Supp.,0300-9750,,,20071016,kathy
+PB433,Urological research,0300-5623,,,20071016,kathy
+PB434,Folia histochemica et cytobiologica,0239-8508,,,20071016,kathy
+PB435,Am J Physiol Renal Physiol,0363-6127,,,20071016,kathy
+PB436,Journal of neuroscience research,0360-4012,,,20071017,kathy
+PB437,Molecular endocrinology,0888-8809,,,20071017,kathy
+PB438,Neurological research,0161-6412,,,20071017,kathy
+PB439,Neuroscience,0306-4522,,,20071017,kathy
+PB44,Alternative Therapies in Health and Medicine,1078-6791,,,20070315,kathy
+PB440,Eur Rev Med Pharmacol Sci,1128-3602,,,20071104,kathy
+PB441,J Pediatr Gastroenterol Nutr,0277-2116,,,20071104,kathy
+PB442,Scand J Gastroenterol Suppl,0085-5928,,,20071104,kathy
+PB443,Archives of disease in childhood,0003-9888,,,20071104,kathy
+PB444,Liver transplantation and surgery,1074-3022,,,20071104,kathy
+PB445,Hepatology,0270-9139,,,20071104,kathy
+PB446,Eur J Gastroenterol Hepatol,0954-691X,,,20071104,kathy
+PB447,Circulatory shock,0092-6213,,,20071104,kathy
+PB448,Prostaglandins Other Lipid Mediat,1098-8823,,,20071104,kathy
+PB449,Prostaglandins Other Lipid Mediat,1098-8823,,,20071104,kathy
+PB45,Toxicology Letters,0378-4274,,,20070318,kathy
+PB450,Can J Physiol Pharmacol,0008-4212,,,20071104,kathy
+PB451,Can J Physiol Pharmacol,0008-4212,,,20071104,kathy
+PB452,Prostaglan Leukot Essent Fatty Acids,0952-3278,,,20071104,kathy
+PB453,J Low Genit Tract Dis,1089-2591,,,20071104,kathy
+PB454,"Auris, nasus, larynx",0385-8146,,,20071104,kathy
+PB455,J Invest Dermatol,0022-202X,,,20071104,kathy
+PB456,Journal of neurology,0340-5354,,,20071104,kathy
+PB457,Revista cl&#237;nica espa&#241;ola,0014-2565,,,20071104,kathy
+PB458,Przegla&#807;d lekarski,0033-2240,,,20071104,kathy
+PB459,Acta physiologica Hungarica,0231-424X,,,20071104,kathy
+PB46,Acta Neurochirurgica,0001-6268,,,20070318,kathy
+PB460,J Investig Allergol Clin Immunol,1018-9068,,,20071104,kathy
+PB461,J Investig Allergol Clin Immunol,1018-9068,,,20071104,kathy
+PB462,J Inv Allerg Clin Imm,1018-9068,,,20071104,kathy
+PB464,Pharmacotherapy,0277-0008,,,20071104,kathy
+PB465,Pancreas,0885-3177,,,20071104,kathy
+PB466,Transplantation,0041-1337,,,20071104,kathy
+PB467,Am J Orthod Dentofacial Orthop,0889-5406,,,20071104,kathy
+PB468,Drug metabolism and disposition,0090-9556,,,20071104,kathy
+PB469,Clinical immunology,1521-6616,,,20071104,kathy
+PB47,Clinical Drug Investigations,1173-2563,,,20070318,kathy
+PB470,Ann Allergy Asthma Immunol,1081-1206,,,20071104,kathy
+PB471,Immunopharmacol Immunotoxicol,0892-3973,,,20071104,kathy
+PB472,Curr Opin Obstet Gynecol,1040-872X,,,20071104,kathy
+PB473,Immunology,0019-2805,,,20071104,kathy
+PB474,NEJM,0028-4793,,,20071105,kathy
+PB475,J Pediatr Hematol Oncol,1077-4114,,,20071105,kathy
+PB476,PLoS clinical trials,1555-5887,,,20071105,kathy
+PB477,Free Radic Res Commun,8755-0199,,,20071105,kathy
+PB478,Free Radic Res Commun,8755-0199,,,20071105,kathy
+PB479,Pediatric Blood and Cancer,1545-5009,,,20071105,kathy
+PB48,Carcinogenesis,0143-3334,,,20070318,kathy
+PB480,J Dtsch Dermatol Ges,1610-0379,,,20071106,kathy
+PB482,Frontiers in bioscience,1093-9946,,,20071106,kathy
+PB483,Journal of neuroimmunology,0165-5728,,,20071114,kathy
+PB484,Brain,0006-8950,,,20071114,kathy
+PB485,Journal of neurosurgery,0022-3085,,,20071122,kathy
+PB486,Yao xue xue bao,0513-4870,,,20071122,kathy
+PB487,Neurobiology of disease,0969-9961,,,20071122,kathy
+PB488,Neuroreport,0959-4965,,,20071122,kathy
+PB489,Journal of psychopharmacology,0269-8811,,,20071122,kathy
+PB49,Mutation Research,,,,20070318,kathy
+PB490,Int Clin Psychopharmacol,0268-1315,,,20071124,kathy
+PB491,Biochimica et biophysica acta,0006-3002,,,20071124,kathy
+PB492,Experimental neurology,0014-4886,,,20071124,kathy
+PB493,Ann N Y Acad Sci,0077-8923,,,20071124,kathy
+PB494,Advances in dental research,0895-9374,,,20071124,kathy
+PB495,Diabetes,0012-1797,,,20071124,kathy
+PB496,Anatomical record,0003-276X,,,20071124,kathy
+PB497,Matrix,0934-8832,,,20071124,kathy
+PB498,Bioinformatics,1367-4803,,,20071124,kathy
+PB499,Journal of neurovirology,1355-0284,,,20071124,kathy
+PB5,Reviews in Urology,1523-6161,,,20070222,kathy
+PB50,Experimental Biology and Medicine,0071-3384,,,20070318,kathy
+PB500,J Am Coll Cardiol,0735-1097,,,20071124,kathy
+PB501,Chest,0012-3692,,,20071124,kathy
+PB502,Kyobu Geka,0021-5252,,,20071124,kathy
+PB503,Osaka city medical journal,0030-6096,,,20071124,kathy
+PB504,Internal medicine,0918-2918,,,20071124,kathy
+PB505,Radiology,0033-8419,,,20071124,kathy
+PB506,Gynecol Obstet Invest,0378-7346,,,20071124,kathy
+PB507,Journal of endourology,0892-7790,,,20071124,kathy
+PB508,Invest Ophthalmol Vis Sci,0146-0404,,,20071124,kathy
+PB509,Current medicinal chemistry,0929-8673,,,20071124,kathy
+PB51,Journal of the American Medical Association,0098-7484,,,20070318,kathy
+PB510,Ophthalmic research,0030-3747,,,20071124,kathy
+PB511,American journal of pathology,0002-9440,,,20071124,kathy
+PB512,Acta pharmacologica Sinica,1671-4083,,,20071125,kathy
+PB513,Neuroscientist,1073-8584,,,20071125,kathy
+PB514,Journal of clinical pharmacology,0091-2700,,,20071204,kathy
+PB515,Journal of women's health,1540-9996,,,20071204,kathy
+PB516,Asian Pac J Cancer Prev,1513-7368,,,20071204,kathy
+PB517,Inflammatory bowel diseases,1078-0998,,,20071206,kathy
+PB518,Israel Medical Association journal,1565-1088,,,20071206,kathy
+PB519,Neuropeptides,0143-4179,,,20071206,kathy
+PB52,Nature Clinical Practice Oncology,1743-4254,,,20070318,kathy
+PB520,Scand J Gastroenterol,0036-5521,,,20071206,kathy
+PB521,Journal of interferon & cytokine research,1079-9907,,,20071207,kathy
+PB522,British journal of clinical practice,0007-0947,,,20071208,kathy
+PB523,Ophthalmologica,0030-3755,,,20071208,kathy
+PB524,Br J Obstet Gynaecol,0306-5456,,,20071208,kathy
+PB526,Journal of vascular surgery,0741-5214,,,20071226,kathy
+PB527,Journal of allergy and clinical immunology,0091-6749,,,20071226,kathy
+PB528,Journal of cerebral blood flow and metabolism,0271-678X,,,20071226,kathy
+PB529,Journal of laboratory and clinical medicine,0022-2143,,,20071226,kathy
+PB53,Proceedings of the National Academy of Science USA,0027-8424,,,20070319,kathy
+PB531,Chinese journal of pathology,0529-5807,,,20071226,kathy
+PB532,In vivo,0258-851X,,,20071226,kathy
+PB533,European journal of haematology,0902-4441,,,20071226,kathy
+PB534,Zhonghua yi xue za zhi,0376-2491,,,20071226,kathy
+PB535,American journal of nephrology,0250-8095,,,20071227,kathy
+PB536,Acta orthopaedica,1745-3674,,,20071227,kathy
+PB537,Chinese critical care medicine,1003-0603,,,20071227,kathy
+PB538,Molecular and cellular biochemistry,0300-8177,,,20071227,kathy
+PB539,Gastrointestinal endoscopy,0016-5107,,,20071227,kathy
+PB54,Free Radical Biology and Medicine,0891-5849,,,20070320,kathy
+PB540,Archives of neurology,0003-9942,,,20071227,kathy
+PB541,Journal of vascular and interventional radiology,1051-0443,,,20071227,kathy
+PB542,Langenbeck's archives of surgery,1435-2443,,,20071227,kathy
+PB543,Journal of international medical research,0300-0605,,,20071227,kathy
+PB544,Le Journal m&eacute;dical libanais,0023-9852,,,20071227,kathy
+PB545,Human reproduction,0268-1161,,,20071227,kathy
+PB546,Journal of infection,0163-4453,,,20071228,kathy
+PB547,Chinese journal of ophthalmology,0412-4081,,,20071228,kathy
+PB548,Chemotherapy,0009-3157,,,20071228,kathy
+PB549,Arterioscler Thromb Vasc Biol,1079-5642,,,20071229,kathy
+PB550,PLoS pathogens,1553-7366,,,20071229,kathy
+PB551,Lancet neurology,1474-4422,,,20080101,kathy
+PB552,Blood coagulation & fibrinolysis,0957-5235,,,20080103,kathy
+PB553,Clinical & translational oncology,1699-048X,,,20080103,kathy
+PB554,Journal of surgical oncology,0022-4790,,,20080103,kathy
+PB555,Journal of thrombosis and haemostasis,1538-7933,,,20080103,kathy
+PB556,Gastroent&eacute;rologie clinique et biologique,0399-8320,,,20080107,kathy
+PB557,Cancer treatment reports,0361-5960,,,20080107,kathy
+PB558,Chirurg,0009-4722,,,20080107,kathy
+PB559,Oncogene,0950-9232,,,20080113,kathy
+PB56,Biochem Biophys Res Commun,0006-291X,,,20070320,kathy
+PB560,Clinical nutrition,0261-5614,,,20080113,kathy
+PB561,Lipids,0024-4201,,,20080113,kathy
+PB562,Nutrition and cancer,0163-5581,,,20080113,kathy
+PB563,Clinical science,0143-5221,,,20080113,kathy
+PB564,"Cancer epidemiology, biomarkers & prevention",1055-9965,,,20080113,kathy
+PB565,Journal of nutritional biochemistry,0955-2863,,,20080113,kathy
+PB567,J Exp Clin Cancer Res,0392-9078,,,20080113,kathy
+PB568,Nippon Geka Gakkai zasshi,0301-4894,,,20080113,kathy
+PB569,British journal of surgery,0007-1323,,,20080113,kathy
+PB57,Histology and histopathology,0213-3911,,,20070320,kathy
+PB570,Nippon Igaku Hoshasen Gakkai Zasshi,0048-0428,,,20080113,kathy
+PB571,European journal of surgical oncology,0748-7983,,,20080113,kathy
+PB572,Clinical oncology,0305-7399,,,20080113,kathy
+PB573,Acta Univ Palacki Olomuc Fac Med,0301-2514,,,20080113,kathy
+PB574,Psychoneuroendocrinology,0306-4530,,,20080124,kathy
+PB575,Endokrynologia Polska,0423-104X,,,20080128,kathy
+PB576,Neurosurgical focus,1092-0684,,,20080128,kathy
+PB577,Annals of hepatology,1665-2681,,,20080128,kathy
+PB578,Melanoma research,0960-8931,,,20080128,kathy
+PB579,Leukemia & lymphoma,1042-8194,,,20080128,kathy
+PB58,Gynecologic oncology,0090-8258,,,20070320,kathy
+PB580,Ginekologia polska,0017-0011,,,20080128,kathy
+PB581,Seminars in oncology,0093-7754,,,20080128,kathy
+PB582,Dermatology,1018-8665,,,20080129,kathy
+PB583,Journal of dermatology,0385-2407,,,20080129,kathy
+PB584,International journal of urology,0919-8172,,,20080129,kathy
+PB585,Palliative medicine,0269-2163,,,20080129,kathy
+PB586,Advances in peritoneal dialysis,1197-8554,,,20080129,kathy
+PB587,Annals of the rheumatic diseases,0003-4967,,,20080129,kathy
+PB588,Journal of clinical pathology,0021-9746,,,20080129,kathy
+PB589,Breast cancer research and treatment,0167-6806,,,20080129,kathy
+PB59,Urology,0090-4295,,,20070320,kathy
+PB590,EMBO journal,0261-4189,,,20080129,kathy
+PB591,Molecular cancer research,1541-7786,,,20080129,kathy
+PB592,Journal of pharmacy and pharmacology,0022-3573,,,20080130,kathy
+PB593,Medicinal research reviews,0198-6325,,,20080207,kathy
+PB594,Virology journal,1743-422X,,,20080207,kathy
+PB595,Neuro-oncology,1522-8517,,,20080207,kathy
+PB596,Endocrine-related cancer,1351-0088,,,20080210,kathy
+PB597,Journal of endocrinology,0022-0795,,,20080210,kathy
+PB598,Epigenetics,1559-2294,,,20080210,kathy
+PB599,QJM,1460-2725,,,20080210,kathy
+PB6,Molecular Cancer Therapeutics,1535-7163,,,20070222,kathy
+PB60,Apoptosis,1360-8185,,,20070320,kathy
+PB600,Cancer treatment reviews,0305-7372,,,20080210,kathy
+PB601,Neuroendocrinology,0028-3835,,,20080210,kathy
+PB602,BMC genomics,1471-2164,,,20080210,kathy
+PB603,Klinische P&auml;diatrie,0300-8630,,,20080210,kathy
+PB604,Molecular cancer,1476-4598,,,20080210,kathy
+PB605,Neoplasma,0028-2685,,,20080210,kathy
+PB606,Genetic vaccines and therapy,1479-0556,,,20080210,kathy
+PB607,Brain Res Mol Brain Res,0169-328X,,,20080211,kathy
+PB608,Psychopharmacology,0033-3158,,,20080211,kathy
+PB609,European journal of neuroscience,0953-816X,,,20080211,kathy
+PB61,Cancer Science,1347-9032,,,20070320,kathy
+PB610,Experimental cell research,0014-4827,,,20080211,kathy
+PB611,FEBS letters,0014-5793,,,20080211,kathy
+PB612,Journal of translational medicine,1479-5876,,,20080211,kathy
+PB613,Immunology and cell biology,0818-9641,,,20080217,kathy
+PB614,Journal of pain,1526-5900,,,20080303,kathy
+PB615,Alternative medicine review,1089-5159,,,20080303,kathy
+PB616,J Am Podiatr Med Assoc,8750-7315,,,20080303,kathy
+PB617,Advances in therapy,0741-238X,,,20080303,kathy
+PB618,Clinical pharmacology and therapeutics,0009-9236,,,20080303,kathy
+PB619,Br J Clin Pharmacol,0306-5251,,,20080303,kathy
+PB62,Haematologica,0390-6078,,,20070320,kathy
+PB620,J Diabetes Complications,1056-8727,,,20080303,kathy
+PB621,Polski merkuriusz lekarski,1426-9686,,,20080303,kathy
+PB622,European journal of clinical pharmacology,0031-6970,,,20080303,kathy
+PB623,Diabetic medicine,0742-3071,,,20080303,kathy
+PB624,European journal of neurology,1351-5101,,,20080311,kathy
+PB625,Drugs,0012-6667,,,20080311,kathy
+PB626,Diabetes research and clinical practice,0168-8227,,,20080311,kathy
+PB627,European journal of pain,1090-3801,,,20080311,kathy
+PB628,American journal of the medical sciences,0002-9629,,,20080312,kathy
+PB629,Pain medicine,1526-2375,,,20080312,kathy
+PB63,Journal of Urology,0022-5347,,,20070320,kathy
+PB630,Diabetologia,0012-186X,,,20080312,kathy
+PB631,Therapeutic drug monitoring,0163-4356,,,20080312,kathy
+PB632,Annals of clinical psychiatry,1040-1237,,,20080312,kathy
+PB633,Southern medical journal,0038-4348,,,20080312,kathy
+PB634,Clin Exp Pharmacol Physiol,0305-1870,,,20080312,kathy
+PB635,Metabolism,0026-0495,,,20080312,kathy
+PB636,Journal of molecular neuroscience,0895-8696,,,20080312,kathy
+PB637,Likars'ka sprava,1019-5297,,,20080312,kathy
+PB638,Current diabetes reviews,1573-3998,,,20080312,kathy
+PB639,Histopathology,0309-0167,,,20080312,kathy
+PB64,The Oncologist,1083-7159,,,20070320,kathy
+PB640,International journal of molecular medicine,1107-3756,,,20080312,kathy
+PB641,Journal of the peripheral nervous system,1085-9489,,,20080312,kathy
+PB642,J Peripher Nerv Syst,1085-9489,,,20080312,kathy
+PB643,Journal of pharmacological sciences,1347-8613,,,20080312,kathy
+PB644,Folia neuropathologica,1641-4640,,,20080312,kathy
+PB645,FASEB journal,0892-6638,,,20080330,kathy
+PB646,Retina,0275-004X,,,20080330,kathy
+PB647,Ophthalmology,0161-6420,,,20080330,kathy
+PB648,British journal of ophthalmology,0007-1161,,,20080330,kathy
+PB649,Acta Ophthalmol Scand,1395-3907,,,20080330,kathy
+PB65,Journal of Nuclear Medicine,0161-5505,,,20070320,kathy
+PB650,Clinical & experimental ophthalmology,1442-6404,,,20080330,kathy
+PB651,J Indian Med Assoc,0019-5847,,,20080330,kathy
+PB652,Int J Microcirc Clin Exp,0167-6865,,,20080330,kathy
+PB653,Diabetes and Vascular Education,,,http://dave.md/s/index.cfm?aid=1387,20080330,kathy
+PB654,Tohoku journal of experimental medicine,0040-8727,,,20080330,kathy
+PB655,"Diabetes, obesity & metabolism",1462-8902,,,20080330,kathy
+PB656,Hormone and metabolic research,0018-5043,,,20080330,kathy
+PB657,Ophthalmologe,0941-293X,,,20080330,kathy
+PB659,Developments in ophthalmology,0250-3751,,,20080330,kathy
+PB66,Cancer Letters,0304-3835,,,20070321,kathy
+PB660,Neurologia medico-chirurgica,04708105,,,20080331,kathy
+PB661,Vestnik oftalmologii,0042-465X,,,20080331,kathy
+PB662,Archives of ophthalmology,0003-9950,,,20080331,kathy
+PB663,Arch Soc Esp Oftalmol,0365-6691,,,20080331,kathy
+PB664,European journal of ophthalmology,1120-6721,,,20080331,kathy
+PB665,Experimental diabetes research,1687-5214,,,20080401,kathy
+PB666,Journal of hypertension. Supplement,0952-1178,,,20080401,kathy
+PB667,Ophthalmic & physiological optics,0275-5408,,,20080402,kathy
+PB668,Annals of ophthalmology,0003-4886,,,20080402,kathy
+PB67,Cancer Biotherapy,1062-8401,,,20070321,kathy
+PB670,Current opinion in pharmacology,1471-4892,,,20080414,kathy
+PB671,Hypertension research,0916-9636,,,20080414,kathy
+PB672,Int J Antimicrob Agents,0924-8579,,,20080427,kathy
+PB673,Nephron,0028-2766,,,20080427,kathy
+PB674,Nippon Jinzo Gakkai shi,0385-2385,,,20080427,kathy
+PB675,Renal failure,0886-022X,,,20080427,kathy
+PB676,Mayo Clinic proceedings,0025-6196,,,20080427,kathy
+PB677,Clin J Am Soc Nephrol,1555-9041,,,20080427,kathy
+PB678,Zhongguo wei zhong bing ji jiu yi xue,1003-0603,,,20080427,kathy
+PB679,"Diabetes, nutrition & metabolism",0394-3402,,,20080427,kathy
+PB68,European Journal of Pharmacology,0014-2999,,,20070321,kathy
+PB680,Kidney international. Supplement,0098-6577,,,20080427,kathy
+PB681,Nephron. Clinical practice,1660-8151,,,20080428,kathy
+PB682,Acta diabetologica latina,0001-5563,,,20080428,kathy
+PB683,Pharmatherapeutica,0308-051X,,,20080428,kathy
+PB685,Kidney & blood pressure research,1420-4096,,,20080428,kathy
+PB686,Japanese journal of medicine,0021-5120,,,20080428,kathy
+PB687,Journal of human hypertension,0950-9240,,,20080428,kathy
+PB688,Yonsei medical journal,0513-5796,,,20080428,kathy
+PB689,Journal of toxicological sciences,0388-1350,,,20080428,kathy
+PB690,Sichuan da xue xue bao. Yi xue ban,1672-173X,,,20080428,kathy
+PB691,Zhong nan da xue xue bao. Yi xue ban,1672-7347,,,20080428,kathy
+PB692,Journal of investigative medicine,1081-5589,,,20080429,kathy
+PB693,Journal of hypertension,0263-6352,,,20080429,kathy
+PB694,Terapevticheski&#301; arkhiv,0040-3660,,,20080429,kathy
+PB695,Journal of nephrology,1121-8428,,,20080429,kathy
+PB696,Bratislavsk&#233; lek&#225;rske listy,0006-9248,,,20080429,kathy
+PB697,Hypertension,0194-911X,,,20080429,kathy
+PB698,Ukr Biokhim Zh,0041-610X,,,20080429,kathy
+PB699,Am J Physiol Regul Integr Comp Physiol,0363-6119,,,20080429,kathy
+PB7,Bioorganic Medical Chemistry,,Ohba T,,20070222,kathy
+PB70,J Clin Endocrinol Metab,0021-972X,,,20070321,kathy
+PB700,J Huazhong Univ Sci Technolog Med Sci,1672-0733,,,20080429,kathy
+PB701,Biochemistry and cell biology,0829-8211,,,20080429,kathy
+PB702,European journal of oral sciences,0909-8836,,,20080610,kathy
+PB703,American Association for Cancer Research,,,,20080615,kathy
+PB704,Archives of internal medicine,0003-9926,,,20080615,kathy
+PB707,Toxicology,0300-483X,,,20080909,kathy
+PB708,Saudi medical journal,0379-5284,,,20080909,kathy
+PB71,Experimental Hematology,0301-472X,,,20070321,kathy
+PB710,Basic research in cardiology,0300-8428,,,20080910,kathy
+PB711,Scandinavian journal of immunology,0300-9475,,,20080914,kathy
+PB712,International journal of cardiology,0167-5273,,,20080914,kathy
+PB713,Texas Heart Institute journal,0730-2347,,,20080914,kathy
+PB714,Canadian journal of cardiology,0828-282X,,,20080914,kathy
+PB715,Zhonghua fu chan ke za zhi,0529-567X,,,20080914,kathy
+PB716,Int J Fertil Womens Med,1534-892X,,,20080914,kathy
+PB717,Am J Reprod Immunol,1046-7408,,,20080914,kathy
+PB718,Current neurovascular research,1567-2026,,,20080914,kathy
+PB72,Cancer Biology and Therapy,1538-4047,,,20070321,kathy
+PB720,Journal of the neurological sciences,0022-510X,,,20080914,kathy
+PB721,Journal of medical investigation,1343-1420,,,20080914,kathy
+PB722,American journal of physiology,0363-6143,,,20080914,kathy
+PB723,Cellular microbiology,1462-5814,,,20080914,kathy
+PB724,European cytokine network,1148-5493,,,20080914,kathy
+PB725,Inflammation research,1023-3830,,,20080914,kathy
+PB726,Journal of neuroinflammation,1742-2094,,,20080914,kathy
+PB727,Neuropharmacology,0028-3908,,,20080914,kathy
+PB728,Archives of pharmacal research,0253-6269,,,20080914,kathy
+PB729,"	J Microbiol Immunol Infect",1684-1182,,,20080915,kathy
+PB73,Oncology Reports,1021-335X,,,20070323,kathy
+PB730,J Microbiol Immunol Infect,1684-1182,,,20080915,kathy
+PB732,Transplantation proceedings,0041-1345,,,20080915,kathy
+PB733,Heart surgery forum,1098-3511,,,20080915,kathy
+PB734,Trop Med Int Health,1360-2276,,,20080915,kathy
+PB735,American journal of cardiology,0002-9149,,,20080915,kathy
+PB736,Journal of bone and joint surgery,0021-9355,,,20080915,kathy
+PB737,Critical care medicine,0090-3493,,,20080915,kathy
+PB738,European journal of pediatrics,0340-6199,,,20080915,kathy
+PB739,Research in experimental medicine,0300-9130,,,20080915,kathy
+PB74,Urologic Nursing,1053-816X,,,20070323,kathy
+PB740,J Atheroscler Thromb,1340-3478,,,20080915,kathy
+PB741,J Mol Cell Cardiol,0022-2828,,,20081027,kathy
+PB742,Arthritis research & therapy,1478-6354,,,20081027,kathy
+PB743,Respiratory research,1465-9921,,,20081027,kathy
+PB744,Annales pharmaceutiques fran&#231;aises,0003-4509,,,20081027,kathy
+PB745,"Alcoholism, clinical and experimental research",0145-6008,,,20081027,kathy
+PB746,Zhonghua wai ke za zhi,0529-5815,,,20081029,kathy
+PB747,Mediators of inflammation,0962-9351,,,20081029,kathy
+PB748,Biomedical and environmental sciences,0895-3988,,,20081029,kathy
+PB749,Archives of surgery,0272-5533,,,20081030,kathy
+PB75,Cancer Chemotherapy and Pharmacology,0344-5704,,,20070325,kathy
+PB750,"	 Pulmonary pharmacology & therapeutics",1094-5539,,,20081030,kathy
+PB751,Pulm Pharmacol Ther,1094-5539,,,20081030,kathy
+PB752,Journal of artificial organs,1434-7229,,,20081030,kathy
+PB753,Clinical endocrinology,0300-0664,,,20081103,kathy
+PB754,Pharmacological reports,1734-1140,,,20081103,kathy
+PB755,J Heart Lung Transplant,1053-2498,,,20081105,kathy
+PB756,J Bone Miner Metab,0914-8779,,,20081105,kathy
+PB758,Basic Clin Pharmacol Toxicol,1742-7835,,,20081105,kathy
+PB759,Spinal Cord,1362-4393,,,20081109,kathy
+PB76,Neoplasia,1522-8002,,,20070325,kathy
+PB760,Immunobiology,0171-2985,,,20081109,kathy
+PB761,Journal of cardiac failure,1071-9164,,,20081109,kathy
+PB762,Shock,1073-2322,,,20081109,kathy
+PB763,Journal of cardiovascular surgery,0021-9509,,,20081109,kathy
+PB764,Molecules and cells,1016-8478,,,20081109,kathy
+PB765,J Allergy Clin Immunol,0091-6749,,,20081109,kathy
+PB766,Die Pharmazie,0031-7144,,,20081109,kathy
+PB767,Phytotherapy research,0951-418X,,,20081111,kathy
+PB768,J Vet Med A Physiol Pathol Clin Med,0931-184X,,,20081111,kathy
+PB769,Pharmacological research,1043-6618,,,20081111,kathy
+PB77,Thrombosis and Haemostasis,0340-6245,,,20070325,kathy
+PB770,J Nutr Sci Vitaminol,0301-4800,,,20081112,kathy
+PB79,Journal of Cancer Research and Clinical Oncol,0171-5216,,,20070326,kathy
+PB8,Journal of Clinical Oncology,0732-183X,,,20070222,kathy
+PB80,Journal of Agricultural and Food Chemistry,0021-8561,,,20070326,kathy
+PB81,International Immunology,0953-8178,,,20070326,kathy
+PB82,Clinical Reviews in Allergy and Immunology,1080-0549,,,20070326,kathy
+PB83,Journal of Virology,0022-538X,,,20070326,kathy
+PB84,J Steroid Biochem Mol Biol.,0960-0760,,,20070327,kathy
+PB85,Journal of Nutrition,0022-3166,,,20070327,kathy
+PB86,Hepatogastroenterology,0172-6390,,,20070327,kathy
+PB87,Annals of Clinical and Laboratory Science,0091-7370,,,20070328,kathy
+PB88,"Cancer immunology, immunotherapy : CII",0340-7004,,,20070329,kathy
+PB89,Urologic Oncology,1078-1439,,,20070329,kathy
+PB9,Leukemia,0887-6924,,,20070222,kathy
+PB90,Biological & pharmaceutical bulletin,0918-6158,,,20070410,kathy
+PB91,Archivum immunologiae et therapiae experimentalis,0004-069X,,,20070415,kathy
+PB92,International immunopharmacology,1567-5769,,,20070415,kathy
+PB93,Medical hypotheses,0306-9877,,,20070416,kathy
+PB94,Psychosomatic medicine,0033-3174,,,20070416,kathy
+PB95,Gut,0017-5749,,,20070416,kathy
+PB96,Gastroenterology,0016-5085,,,20070416,kathy
+PB97,Molecular bioSystems,1742-206X,,,20070416,kathy
+PB98,Biochemical pharmacology,0006-2952,,,20070416,kathy

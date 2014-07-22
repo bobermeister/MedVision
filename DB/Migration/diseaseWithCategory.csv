@@ -1,0 +1,285 @@
+id,name,enteredDate,enteredBy,code,categoryId
+DS114,Inflammation (gen'l),20070507,kathy,,CT1
+DS127,Post surgical inflammation,20070628,kathy,,CT1
+DS149,Beh&#231;et's disease,20070710,kathy,,CT1
+DS238,Organ transplantation,20071016,kathy,,CT1
+DS256,Sarcoidosis,20071122,kathy,,CT1
+DS283,Retroperitoneal fibrosis,20080129,kathy,,CT1
+DS284,Peritoneal sclerosis,20080129,kathy,,CT1
+DS285,Fibrosing mediastinitis,20080129,kathy,,CT1
+DS286,Sclerosing cervicitis,20080129,kathy,,CT1
+DS76,SLE,20070219,kathy,,CT1
+DS118,Sexual dysfunction,20070521,kathy,,CT10
+DS190,Hot flashes,20070830,kathy,,CT10
+DS225,Benign breast disease,20071015,kathy,,CT10
+DS226,PMS,20071015,kathy,,CT10
+DS234,Autoimmune thyroiditis,20071016,kathy,,CT10
+DS292,DM(general),20080312,kathy,,CT10
+DS72,Thyroid disease,20070219,kathy,,CT10
+DS73,"DM, Type I",20070219,kathy,,CT10
+DS89,"DM, Type II",20070228,kathy,,CT10
+DS116,Restless Legs Syndrome,20070521,kathy,,CT11
+DS119,Chronic Pain,20070521,kathy,,CT11
+DS122,Brain damage,20070613,kathy,,CT11
+DS159,Syncope (vasovagal),20070812,kathy,,CT11
+DS162,Neuropathy,20070812,kathy,,CT11
+DS166,Cyclic vomiting syndrome,20070813,kathy,,CT11
+DS168,Sensory neuropathic cough,20070813,kathy,,CT11
+DS181,Acute pain,20070828,kathy,,CT11
+DS182,Delirium,20070828,kathy,,CT11
+DS186,"Nystagmus, congenital",20070830,kathy,,CT11
+DS187,Headache,20070830,kathy,,CT11
+DS189,Orthostatic tremor,20070830,kathy,,CT11
+DS191,Hiccup,20070830,kathy,,CT11
+DS208,Tardive dyskinesia,20070910,kathy,,CT11
+DS214,Pseudotumor cerebri,20070920,kathy,,CT11
+DS215,Spinal cord injury,20071008,kathy,,CT11
+DS216,CVA,20071008,kathy,,CT11
+DS217,Neonatal hypoxic-ischemia,20071008,kathy,,CT11
+DS227,Akinetic mutism,20071016,kathy,,CT11
+DS233,Nicotine addiction,20071016,kathy,,CT11
+DS235,Huntington's chorea,20071016,kathy,,CT11
+DS236,Post polio syndrome,20071016,kathy,,CT11
+DS237,Rett Syndrome,20071016,kathy,,CT11
+DS240,Aphasia,20071016,kathy,,CT11
+DS241,Narcolepsy,20071016,kathy,,CT11
+DS264,Brain abscess,20071125,kathy,,CT11
+DS265,Encephalomyelitis,20071125,kathy,,CT11
+DS266,Neurodegenerative disease (general),20071210,kathy,,CT11
+DS303,Krabbe's disease,20080914,kathy,,CT11
+DS77,Multiple Sclerosis,20070219,kathy,,CT11
+DS78,Alzheimer's disease,20070219,kathy,,CT11
+DS79,Epilepsy,20070219,kathy,,CT11
+DS81,NF,20070219,kathy,,CT11
+DS82,C P,20070219,kathy,,CT11
+DS83,Parkinson's disease,20070220,kathy,,CT11
+DS86,CLL- B,20070226,moshe,,CT12
+DS87,CLL-T,20070226,moshe,,CT12
+DS91,Leukemia (gen'l),20070301,kathy,,CT12
+DS92,CML,20070308,kathy,,CT12
+DS111,Poisoning,20070502,kathy,,CT13
+DS218,Arsenic ingestion,20071011,kathy,,CT13
+DS223,Neuroleptic malignant syndrome,20071015,kathy,,CT13
+DS242,Acetaminophen toxicity,20071104,kathy,,CT13
+DS93,Aflatoxicosis,20070310,moshe,,CT13
+DS100,Aplastic Anemia,20070416,kathy,,CT14
+DS132,Sickle Cell Disease,20070702,kathy,,CT14
+DS135,Anemia (gen'l),20070702,kathy,,CT14
+DS148,Hemorrhagic Shock,20070710,kathy,,CT14
+DS150,Myelodysplastic syndrome,20070712,kathy,,CT14
+DS200,TTP,20070909,kathy,,CT14
+DS207,Ischemia/reperfusion injury,20070910,kathy,,CT14
+DS247,Erythromelalgia,20071104,kathy,,CT14
+DS271,Lymphangiohemangioma,20071227,kathy,,CT14
+DS300,Antiphospholipid syndrome,20080910,kathy,,CT14
+DS101,Dermatitis,20070416,kathy,,CT15
+DS175,Burn,20070820,kathy,,CT15
+DS176,Epidermolysis bullosa,20070820,kathy,,CT15
+DS179,Psoriasis,20070823,kathy,,CT15
+DS199,Necrobiosis lipoidica,20070909,kathy,,CT15
+DS213,Papilloma,20070920,kathy,,CT15
+DS249,Alopecia,20071104,kathy,,CT15
+DS255,Seborrhea,20071106,kathy,,CT15
+DS294,Acne,20080331,kathy,,CT15
+DS299,Vitiligo,20080909,kathy,,CT15
+DS305,Scleroderma,20080915,kathy,,CT15
+DS309,Radiation skin toxicity,20081111,kathy,,CT15
+DS103,Bacterial infection,20070416,kathy,,CT16
+DS104,HIV infection/AIDS,20070416,kathy,,CT16
+DS106,Malaria,20070417,kathy,,CT16
+DS108,Fungal infection,20070418,kathy,,CT16
+DS110,Tuberculosis,20070429,kathy,,CT16
+DS125,Leprosy,20070628,kathy,,CT16
+DS147,Endotoxemia,20070710,kathy,,CT16
+DS157,Cholera,20070729,kathy,,CT16
+DS202,Herpes Simplex Virus,20070909,kathy,,CT16
+DS203,Influenza,20070909,kathy,,CT16
+DS204,Vaccinia virus,20070909,kathy,,CT16
+DS254,Sleeping sickness,20071105,kathy,,CT16
+DS276,Filariasis,20071229,kathy,,CT16
+DS302,Scrub typhus,20080914,kathy,,CT16
+DS306,Sepsis,20080915,kathy,,CT16
+DS105,Cataracts,20070416,kathy,,CT17
+DS177,Keratoconjunctivitis,20070820,kathy,,CT17
+DS221,Glaucoma,20071015,kathy,,CT17
+DS239,Anterior uveitis,20071016,kathy,,CT17
+DS263,Light induced retinal degeneration,20071124,kathy,,CT17
+DS293,Retinopathy,20080319,kathy,,CT17
+DS115,Depression,20070521,kathy,,CT18
+DS117,Obesity,20070521,kathy,,CT18
+DS123,ADHD,20070623,kathy,,CT18
+DS124,Chronic Fatigue Syndrome,20070623,kathy,,CT18
+DS184,Panic Disorder,20070830,kathy,,CT18
+DS192,Alcohol addiction,20070830,kathy,,CT18
+DS193,Narcotic addiction,20070830,kathy,,CT18
+DS194,Bipolar disorder,20070830,kathy,,CT18
+DS230,Cotard's syndrome,20071016,kathy,,CT18
+DS231,Schizophrenia,20071016,kathy,,CT18
+DS232,Dementia,20071016,kathy,,CT18
+DS257,Methamphetamine addiction,20071124,kathy,,CT18
+DS136,Duchenne muscular dystrophy,20070702,kathy,,CT19
+DS272,Muscular dystrophy,20071227,kathy,,CT19
+DS102,Cancer (general),20070416,kathy,,CT2
+DS12,NSCLC,20070218,kathy,,CT2
+DS121,Cancer-related fatigue,20070613,kathy,,CT2
+DS13,Brain cancer,20070218,kathy,,CT2
+DS144,Wilm's tumor,20070708,kathy,,CT2
+DS15,Ovarian cancer,20070218,kathy,,CT2
+DS152,Kaposi's sarcoma,20070716,kathy,,CT2
+DS16,Uterine cancer,20070218,kathy,,CT2
+DS17,Cervical cancer,20070218,kathy,,CT2
+DS19,Gastric cancer,20070218,kathy,,CT2
+DS195,Glioblastoma,20070909,kathy,,CT2
+DS196,Squamous Cell Ca,20070909,kathy,,CT2
+DS197,Endometrial Ca,20070909,kathy,,CT2
+DS198,Laryngeal Ca,20070909,kathy,,CT2
+DS20,Pancreatic cancer,20070218,kathy,,CT2
+DS21,Biliary tree cancer,20070218,kathy,,CT2
+DS22,Hepatocellular carcinoma,20070218,kathy,,CT2
+DS24,Thyroid cancer,20070218,kathy,,CT2
+DS25,Prostate cancer,20070218,kathy,,CT2
+DS26,"Skin cancer, melanoma",20070218,kathy,,CT2
+DS27,"Skin cancer, basal cell",20070218,kathy,,CT2
+DS278,Cholangiocarcinoma,20080124,kathy,,CT2
+DS279,Ependymoma,20080128,kathy,,CT2
+DS28,"Skin cancer, squamous cell",20070218,kathy,,CT2
+DS280,Desmoid tumor,20080128,kathy,,CT2
+DS281,Astrocytoma (see also brain ca),20080128,kathy,,CT2
+DS282,Leiomyosarcoma,20080129,kathy,,CT2
+DS29,Testicular cancer,20070218,kathy,,CT2
+DS3,Colorectal Cancer,20070218,kathy,,CT2
+DS30,"Lymphoma, Hodgkin's",20070218,kathy,,CT2
+DS31,"Leukemia, ALL",20070218,kathy,,CT2
+DS33,"Leukemia, AML",20070218,kathy,,CT2
+DS36,Head and Neck Cancer,20070219,kathy,,CT2
+DS37,SCLC,20070219,kathy,,CT2
+DS38,Thymoma,20070219,kathy,,CT2
+DS39,Germ cell Tumor,20070219,kathy,,CT2
+DS40,Esophageal Cancer,20070219,kathy,,CT2
+DS41,Bladder cancer,20070219,kathy,,CT2
+DS42,RCC,20070219,kathy,,CT2
+DS43,Carcinoid,20070219,kathy,,CT2
+DS44,"Sarcoma, soft tissue",20070219,kathy,,CT2
+DS45,"Sarcoma, bone",20070219,kathy,,CT2
+DS46,Mesothelioma,20070219,kathy,,CT2
+DS47,NHL,20070219,kathy,,CT2
+DS48,Multiple Myeloma,20070219,kathy,,CT2
+DS85,Breast Cancer,20070226,moshe,,CT2
+DS96,Melanoma,20070318,kathy,,CT2
+DS97,Lung cancer (general),20070318,kathy,,CT2
+DS99,Neuroblastoma,20070331,moshe,,CT2
+DS138,aphthous stomatitis,20070703,kathy,,CT20
+DS142,Trismus,20070705,kathy,,CT20
+DS160,Odontalgia,20070812,kathy,,CT20
+DS169,Mucositis,20070819,kathy,,CT20
+DS180,Chronic masticatory myalgia,20070828,kathy,,CT20
+DS253,Tooth misalignment,20071104,kathy,,CT20
+DS296,Periodontitis,20080610,kathy,,CT20
+DS140,Osteoradionecrosis,20070705,kathy,,CT21
+DS143,Bone fracture,20070708,kathy,,CT21
+DS153,Osteoporosis,20070722,kathy,,CT21
+DS185,Spinal Stenosis,20070830,kathy,,CT21
+DS270,Osteopenia,20071227,kathy,,CT21
+DS141,Infertility,20070705,kathy,,CT22
+DS161,Vulvodynia,20070812,kathy,,CT22
+DS178,Vaginal ulceration,20070820,kathy,,CT22
+DS245,Vulvitis,20071104,kathy,,CT22
+DS261,Pelvic lymphocysts,20071124,kathy,,CT22
+DS290,Adenomyosis,20080207,kathy,,CT22
+DS298,Dysfunctional Uterine Bleeding,20080907,kathy,,CT22
+DS301,Endometriosis,20080914,kathy,,CT22
+DS163,Hearing Loss,20070812,kathy,,CT23
+DS164,Interstitial cystitis,20070812,kathy,,CT24
+DS183,Neurogenic Overactive Bladder,20070830,kathy,,CT24
+DS219,BPH,20071015,kathy,,CT24
+DS243,Cystitis,20071104,kathy,,CT24
+DS252,Renal insufficiency,20071104,kathy,,CT24
+DS262,Prostatic cyst,20071124,kathy,,CT24
+DS201,Preeclampsia,20070909,kathy,,CT26
+DS209,Hypophosphatemia,20070910,kathy,,CT27
+DS210,Hypercholesterolemia,20070910,kathy,,CT27
+DS220,Hepatic encephalopathy,20071015,kathy,,CT27
+DS222,Dyslipidemia,20071015,kathy,,CT27
+DS246,Tinnitus,20071104,kathy,,CT28
+DS273,Lymphocele,20071227,kathy,,CT29
+DS274,Lymphatic fistula,20071227,kathy,,CT29
+DS120,Fibromyalgia,20070612,kathy,,CT3
+DS224,Reiter's syndrome,20071015,kathy,,CT3
+DS4,Gout,20070218,kathy,,CT3
+DS74,Arthritis,20070219,kathy,,CT3
+DS75,DJD,20070219,kathy,,CT3
+DS277,Cachexia,20080113,kathy,,CT30
+DS287,Injury/wound,20080129,kathy,,CT31
+DS308,Anaphylaxis,20081109,kathy,,CT32
+DS112,Cardiac ischemia,20070503,kathy,,CT4
+DS113,Cardiac failure,20070507,kathy,,CT4
+DS126,Coronary Artery Occlusion,20070628,kathy,,CT4
+DS206,Pulm Arterial HTN,20070910,kathy,,CT4
+DS228,Post partum cardiomyopathy,20071016,kathy,,CT4
+DS229,Left ventricular hypertrophy,20071016,kathy,,CT4
+DS258,Pericardial effusion,20071124,kathy,,CT4
+DS295,Cardiac arrest,20080402,kathy,,CT4
+DS297,Coronary artery disease,20080615,kathy,,CT4
+DS49,IHD,20070219,kathy,,CT4
+DS50,Cardiomyopathy,20070219,kathy,,CT4
+DS51,Valvular heart disease,20070219,kathy,,CT4
+DS129,Shock,20070628,kathy,,CT5
+DS130,Vascular dementia,20070701,kathy,,CT5
+DS131,Venous leg ulcer,20070701,kathy,,CT5
+DS139,Erectile dysfunction,20070703,kathy,,CT5
+DS250,Raynaud's phenomenon,20071104,kathy,,CT5
+DS251,PAD,20071104,kathy,,CT5
+DS268,Aneurysm,20071226,kathy,,CT5
+DS288,Angiomyolipoma,20080130,kathy,,CT5
+DS289,Hemangioma,20080130,kathy,,CT5
+DS52,Arteriosclerosis,20070219,kathy,,CT5
+DS53,HTN,20070219,kathy,,CT5
+DS54,PVD,20070219,kathy,,CT5
+DS137,Radiation induced fibrosis,20070703,kathy,,CT6
+DS146,ARDS,20070708,kathy,,CT6
+DS170,Pneumonia,20070820,kathy,,CT6
+DS205,Acute Resp Disease,20070910,kathy,,CT6
+DS259,Pleural effusion,20071124,kathy,,CT6
+DS269,Pulmonary fibrosis,20071226,kathy,,CT6
+DS275,Pulmonary embolus,20071227,kathy,,CT6
+DS55,Asthma,20070219,kathy,,CT6
+DS56,COPD,20070219,kathy,,CT6
+DS90,Cystic fibrosis,20070301,kathy,,CT6
+DS133,Chronic allograft nephropathy,20070702,kathy,,CT7
+DS134,Nephropathy,20070702,kathy,,CT7
+DS151,Glomerulonephritis,20070712,kathy,,CT7
+DS291,SIADH,20080224,kathy,,CT7
+DS57,CRF,20070219,kathy,,CT7
+DS58,Nephrolithiasis,20070219,kathy,,CT7
+DS94,PKD (Polycystic Kidney Disease),20070313,moshe,,CT7
+DS95,ARPKD - see PKD,20070313,moshe,,CT7
+DS128,Non-alcoholic steatohepatitis,20070628,kathy,,CT8
+DS156,Lactose intolerance,20070729,kathy,,CT8
+DS165,Dyspepsia,20070813,kathy,,CT8
+DS167,Fecal incontinence,20070813,kathy,,CT8
+DS171,Esophageal stricture,20070820,kathy,,CT8
+DS172,Colitis,20070820,kathy,,CT8
+DS173,Proctitis,20070820,kathy,,CT8
+DS174,Solitary Rectal Ulcer Syndrome,20070820,kathy,,CT8
+DS211,Pancreatitis,20070910,kathy,,CT8
+DS212,Diarrhea,20070918,kathy,,CT8
+DS244,Constipation,20071104,kathy,,CT8
+DS248,Enteritis,20071104,kathy,,CT8
+DS304,Gastritis,20080915,kathy,,CT8
+DS59,PUD,20070219,kathy,,CT8
+DS60,GERD,20070219,kathy,,CT8
+DS61,Diverticulosis,20070219,kathy,,CT8
+DS62,Crohn's disease,20070219,kathy,,CT8
+DS63,IBS,20070219,kathy,,CT8
+DS64,Ulcerative colitis,20070219,kathy,,CT8
+DS145,Vaso-occlusive disease,20070708,kathy,,CT9
+DS155,Liver failure,20070723,kathy,,CT9
+DS260,Hepatic cyst,20071124,kathy,,CT9
+DS267,Hepatitis (general),20071211,kathy,,CT9
+DS65,Cirrhosis,20070219,kathy,,CT9
+DS66,Hep A,20070219,kathy,,CT9
+DS67,Hep B,20070219,kathy,,CT9
+DS68,Hep C,20070219,kathy,,CT9
+DS69,Hemochromatosis,20070219,kathy,,CT9
+DS70,Cholecystitis,20070219,kathy,,CT9
+DS71,Cholelithiasis,20070219,kathy,,CT9

@@ -1,0 +1,27 @@
+CREATE (PB189:Publication {title:'American journal of kidney diseases', isbn:'0272-6386', enteredDate:20070702})
+CREATE (Kathy:User {firstName:'Kathy', lastName:'Poodiack', password:'181818', email:'kathy.poodiack@gmail.com'})
+CREATE (AR00349:Article:Source {title:'Urinary protein excretion and serum tumor necrosis factor in diabetic patients with advanced renal failure: effects of pentoxifylline administration.', abstract:'In 24 diabetic patients with advanced renal failure (creatinine clearance [C(Cr)] < 35 mL/min), we prospectively studied serum tumor necrosis factor-alpha (TNF-alpha) levels, the possible relationship with urinary protein excretion, and the effects of pentoxifylline (PTF) administration. PTF (400 mg daily) was administered for 6 months to 14 ', volume:33, issue:'3', pages:'63-458', year:1999, month:3, citation:'Navarro JF, Mora C, Rivero A, Gallego E, Chahin J, Mac&#237;a M, M&#233;ndez ML, Garc&#237;a J.Urinary protein excretion and serum tumor necrosis factor in diabetic patients with advanced renal failure: effects of pentoxifylline administration.Am J Kidney Dis. 1999 Mar;33(3):458-63.', enteredDate:20070702, pmId:10070909})
+CREATE (MM436:Memo {subject:'PTX  reduces proteinuria', details:'24 DM patients with advanced RF; 14 pts given PTX 400 mg daily x 6 months vs 10 pts on placebo. At the end of the study, urinary protein excretion and serum TNF-alpha decreased in the active group from 2.7 (1.2 to 5.8) g/d and 569 +/- 285 pg/mL to 1.1 (0.3 to 4.0) g/d and 329 +/- 232 pg/mL, respectively . By contrast, proteinuria and TNF-alpha ', isClinical:TRUE, isVivo:FALSE, isVitro:FALSE, enteredDate:20070702})
+CREATE (DS134:Disease {name:'Nephropathy', enteredDate:20070202})
+CREATE (MO157:Modality {name:'Pentoxifylline', enteredDate:20070628})
+CREATE (CT7:Disease {name:'Renal', enteredDate:20070219})
+
+CREATE 
+	(PB189)-[:ENTERED_BY]->(Kathy),
+	(AR00349)-[:ENTERED_BY]->(Kathy),
+	(MM436)-[:ENTERED_BY]->(Kathy),
+	(DS134)-[:ENTERED_BY]->(Kathy),
+	(MO157)-[:ENTERED_BY]->(Kathy),
+	(CT7)-[:ENTERED_BY]->(Kathy),
+	(PB189)-[:PUBLISH]->(AR00349),
+	(AR00349)-[:MENTION]->(MM436),
+	(MM436)-[:MODALITY_AFFECT_DISEASE]->(DS134),
+	(MM436)-[:MODALITY_AFFECT_DISEASE]->(MO157),
+	(MO157)-[:AFFECT {level:1}]->(DS134),
+	(DS134)-[:CHILD_OF]->(CT7)
+
+-------------------------------------------------------------------------
+//DELETE ALL	
+MATCH (n)
+OPTIONAL MATCH (n)-[r]-()
+DELETE n,r

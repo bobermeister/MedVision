@@ -1,0 +1,371 @@
+id,name,enteredDate,enteredBy
+MO1,Naltrexone - Low Dose (LDN),20070218,moshe
+MO10,Dacarbazine,20070219,kathy
+MO100,Vit K2,20070320,kathy
+MO101,Vit C,20070320,kathy
+MO102,Vit K3,20070320,kathy
+MO103,Thermal therapy,20070320,kathy
+MO104,Astragalus (see TCM),20070321,kathy
+MO105,Ligustrum (see TCM),20070321,kathy
+MO106,Traditional Chinese Medicine (TCM),20070321,kathy
+MO107,Valproic acid (see HDACI),20070321,kathy
+MO108,Melatonin,20070321,kathy
+MO109,HDACIs,20070321,kathy
+MO11,Temozolomide,20070219,kathy
+MO110,Selenium,20070323,kathy
+MO111,5-alpha reductase inhibitor,20070323,kathy
+MO112,Statins,20070323,kathy
+MO114,Vit A,20070323,kathy
+MO115,Vit B1 (thiamine),20070323,kathy
+MO116,Vit B2 (riboflavin),20070323,kathy
+MO117,Vit B3 (niacin),20070323,kathy
+MO118,Vit B5 (pantothenic acid),20070323,kathy
+MO119,Vit B6 (pyridoxine),20070323,kathy
+MO12,Thiotepa,20070219,kathy
+MO120,Vit B7 (biotin),20070323,kathy
+MO121,Vit B9 (folate),20070323,kathy
+MO122,Vit B12 (cyanocobalamin),20070323,kathy
+MO123,Vit D2,20070323,kathy
+MO124,Vit D3,20070323,kathy
+MO125,EGCG (see green tea),20070323,kathy
+MO126,Pomegranate juice,20070325,kathy
+MO127,endothelin receptor antagonists (ETRAs),20070326,kathy
+MO128,atrasentan (see ETRAs),20070326,kathy
+MO129,Lycopene (see carotenoids),20070326,kathy
+MO13,Mitomycin C,20070219,kathy
+MO130,Licorice root (see polyphenols),20070326,kathy
+MO131,Polyphenols,20070326,kathy
+MO132,Tetrathiomolybdate,20070327,kathy
+MO133,Geldanaymcin,20070327,kathy
+MO134,Omega-3,20070327,kathy
+MO135,Heparin,20070327,kathy
+MO136,Immunoglobulin (Ig),20070327,kathy
+MO137,Newcastle disease virus,20070327,kathy
+MO138,Ibuprofen (see NSAIDs),20070327,kathy
+MO14,Procarbazine,20070219,kathy
+MO141,Fermented wheat germ,20070327,kathy
+MO142,COX-2 inhibitor,20070328,kathy
+MO143,Noscapine,20070329,kathy
+MO144,Sodium stibogluconate,20070329,kathy
+MO145,DIM,20070329,kathy
+MO146,Laetrile,20070331,moshe
+MO147,Vit B17 (see Laetrile),20070331,moshe
+MO148,Calcium,20070410,kathy
+MO149,Fructose,20070410,kathy
+MO15,Hexamethylmelamine,20070219,kathy
+MO150,amygdalin (see laetrile),20070410,kathy
+MO151,Bupropion,20070415,kathy
+MO152,Disulfiram,20070416,kathy
+MO153,Phenothiazenes,20070422,kathy
+MO154,Kremezin,20070422,kathy
+MO155,AST-120 (see Kremezin),20070422,kathy
+MO156,AZT,20070430,kathy
+MO157,Pentoxifylline,20070628,kathy
+MO158,Boswellia serrata,20070701,kathy
+MO159,Losartan,20070702,kathy
+MO16,Cisplatin,20070219,kathy
+MO160,Neovastat,20070716,moshe
+MO161,Shark Cartilage see Neovastat,20070716,moshe
+MO162,Car-T-Cell - see Neovastat,20070716,moshe
+MO163,Frozen Shark Cartilage - see Neovastat,20070716,moshe
+MO164,hCG,20070716,kathy
+MO165,Withferin A,20070717,kathy
+MO166,Ecabet sodium,20070717,kathy
+MO167,Desferrithiocin,20070717,kathy
+MO168,Faslodex,20070717,kathy
+MO169,Talactoferrin,20070717,kathy
+MO17,Carboplatin,20070219,kathy
+MO170,Desferoxamine,20070717,kathy
+MO171,Dopamine,20070718,kathy
+MO172,Estrogen,20070719,kathy
+MO173,DHEA,20070719,kathy
+MO174,Bisphosphonates,20070722,kathy
+MO175,Rifaximin,20070723,kathy
+MO176,Amitriptyline,20070812,kathy
+MO177,Fluoxetine,20070812,kathy
+MO178,Nortriptyline,20070812,kathy
+MO179,Tramadol,20070813,kathy
+MO18,Oxaliplatin,20070219,kathy
+MO180,Sucralfate,20070819,kathy
+MO181,ACE inhibitors,20070828,kathy
+MO182,Pamidronate,20070828,kathy
+MO183,Progesterone,20070828,kathy
+MO184,Pioglitazone,20070905,kathy
+MO185,Dipyridamole,20070909,kathy
+MO186,Calcium channel blockers,20070909,kathy
+MO187,Nitric oxide,20070910,kathy
+MO188,Hi fat/Lo CHO diet,20070918,kathy
+MO189,Calorie restricted diet,20070918,kathy
+MO19,Methotrexate,20070219,kathy
+MO190,Asparagus racemosus,20070918,kathy
+MO191,Digitoxin,20070920,kathy
+MO192,Minocycline,20071008,kathy
+MO193,Doxycycline,20071008,kathy
+MO194,Cinnamon,20071008,moshe
+MO195,Bromocriptine,20071014,kathy
+MO196,Octreotide,20071014,kathy
+MO197,Megace,20071014,kathy
+MO198,Somatostatin,20071014,kathy
+MO199,ACTH,20071015,kathy
+MO2,Aspirin,20070218,kathy
+MO20,5-FU,20070219,kathy
+MO200,Prolactin,20071015,kathy
+MO201,Danazol,20071015,kathy
+MO202,Evening primrose oil,20071015,kathy
+MO203,Misoprostol,20071101,kathy
+MO204,Nifurtimox,20071105,kathy
+MO205,Isotretinoin,20071106,kathy
+MO206,Urea,20071106,kathy
+MO207,Interferon beta,20071114,kathy
+MO208,Glatiramer acetate,20071114,kathy
+MO209,Creatine,20071122,kathy
+MO21,FUdR,20070219,kathy
+MO210,CoQ10,20071124,kathy
+MO211,Duloxetine,20071204,kathy
+MO212,Calcitonin,20071204,kathy
+MO213,Amentoflavone,20071204,kathy
+MO214,Homeopathics,20071204,kathy
+MO215,Zinc,20071206,kathy
+MO216,Butyrate,20071207,kathy
+MO217,Glucosamine,20071208,kathy
+MO218,Berberine,20071208,kathy
+MO219,Aprotonin,20071208,kathy
+MO22,Ara-C,20070219,kathy
+MO220,Folic acid,20071208,kathy
+MO221,A. paniculata,20071209,kathy
+MO222,Antioxidants (general),20071209,kathy
+MO223,Gingko biloba,20071210,kathy
+MO224,Alpha lipoic acid (ALA),20071211,kathy
+MO225,Dietary intervention,20071212,kathy
+MO226,Rifampin,20071226,kathy
+MO227,Zoledronic acid,20071226,kathy
+MO228,Enoxaparin (see also LMWH),20080103,kathy
+MO229,Nadroparin (see also LMWH),20080103,kathy
+MO23,Gemcitabine,20070219,kathy
+MO230,Dalteparin (also see LMWH),20080103,kathy
+MO231,Interferon alpha,20080106,kathy
+MO232,IFN - lo dose,20080106,kathy
+MO233,Potassium citrate,20080106,kathy
+MO234,Certoparin (also see LMWH),20080113,kathy
+MO235,Arsenic trioxide,20080113,kathy
+MO236,"Fish oil (incl EPA, DHA, n-3 fa)",20080113,kathy
+MO237,Aminoglutethimide,20080113,kathy
+MO238,Rexin-G,20080113,kathy
+MO239,Digestive enzymes,20080114,kathy
+MO24,6-MP (Imuran),20070219,kathy
+MO240,L-carnitine,20080114,kathy
+MO241,Choline,20080114,kathy
+MO242,IL-2,20080114,kathy
+MO243,Raloxifene,20080128,kathy
+MO244,Quercetin,20080128,kathy
+MO245,Provera,20080128,kathy
+MO246,Thalidomide,20080128,kathy
+MO247,Hypericin (St. John's wort),20080128,kathy
+MO248,ATRA,20080128,kathy
+MO249,Gefitinib,20080128,kathy
+MO25,Hydroxyurea,20070219,kathy
+MO250,Colchicine,20080128,kathy
+MO251,Lonidamine,20080128,kathy
+MO253,Dexamethasone,20080130,kathy
+MO254,Hydralazine,20080207,kathy
+MO255,5-AZA,20080210,kathy
+MO256,Trichostatin A,20080210,kathy
+MO257,Cadmium,20080217,kathy
+MO258,Lactoferrin,20080217,kathy
+MO259,Imiquimod,20080221,kathy
+MO26,VP-16 (Etoposide),20070219,kathy
+MO260,Desipramine,20080303,kathy
+MO261,Antidepressants,20080303,kathy
+MO262,Capsaicin,20080303,kathy
+MO263,Citalopram,20080303,kathy
+MO264,Clomipramine,20080303,kathy
+MO265,Dextromethorphan,20080303,kathy
+MO266,Epalrestat,20080303,kathy
+MO267,Imipramine,20080303,kathy
+MO268,Lamotrigine,20080303,kathy
+MO269,Metaclompramide,20080304,kathy
+MO27,Irinotecan,20070219,kathy
+MO270,Lidocaine,20080311,kathy
+MO271,Lisinopril,20080311,kathy
+MO272,Methadone,20080311,kathy
+MO273,Mexiletine,20080311,kathy
+MO274,Nitroglycerin,20080311,kathy
+MO275,Isosorbide dinitrate,20080311,kathy
+MO276,Oxcarbazepine,20080311,kathy
+MO277,Oxycodone,20080312,kathy
+MO278,Paroxetine,20080312,kathy
+MO279,Sertraline,20080312,kathy
+MO28,Trastuzumab,20070219,kathy
+MO280,Acetaminophen,20080312,kathy
+MO281,Topiramate,20080312,kathy
+MO282,Venlafaxine,20080312,kathy
+MO283,Allopurinol,20080312,kathy
+MO284,Bendazac lysine,20080312,kathy
+MO285,Gliclazide,20080312,kathy
+MO286,Metformin,20080312,kathy
+MO287,Piroxicam,20080312,kathy
+MO288,Astemizole,20080330,kathy
+MO289,Ranitidine,20080330,kathy
+MO29,Tamoxifen,20070219,kathy
+MO290,Bevacizumab,20080330,kathy
+MO291,Brimonidine,20080330,kathy
+MO292,Buflomedil,20080330,kathy
+MO293,Candesartan,20080330,kathy
+MO294,Cyclandelate,20080330,kathy
+MO295,Defribrotide,20080330,kathy
+MO296,Fenofibrate,20080330,kathy
+MO297,Ibudilast,20080330,kathy
+MO298,Pegaptanib,20080330,kathy
+MO299,Perindopril,20080331,kathy
+MO3,Cyclophosphamide,20070219,kathy
+MO30,Anastrazole,20070219,kathy
+MO300,Pimagedine,20080331,kathy
+MO301,Pravastatin,20080331,kathy
+MO302,Ruboxistaurin,20080331,kathy
+MO303,Simvastatin,20080331,kathy
+MO304,Sulindac,20080331,kathy
+MO305,Trapidil,20080331,kathy
+MO306,Captopril,20080331,kathy
+MO307,Erythropoietin,20080331,kathy
+MO308,Fidarestat,20080331,kathy
+MO309,Nipradilol,20080331,kathy
+MO31,Exemestane,20070219,kathy
+MO310,Olmesartan,20080331,kathy
+MO311,Cerivastatin,20080331,kathy
+MO312,Incadronate disodium,20080331,kathy
+MO313,Tenilsetam,20080331,kathy
+MO314,Rosiglitazone,20080401,kathy
+MO315,Aliskiren,20080414,kathy
+MO316,Alprostadil,20080414,kathy
+MO317,Amlodipine,20080414,kathy
+MO318,Atenolol,20080414,kathy
+MO319,Promethazine,20080427,kathy
+MO32,Letrozole,20070219,kathy
+MO320,Methylene blue,20080427,kathy
+MO321,Verapamil,20080427,kathy
+MO322,Ampicillin,20080427,kathy
+MO323,Tetracycline,20080427,kathy
+MO324,Erythromycin,20080427,kathy
+MO325,Gentamycin,20080427,kathy
+MO326,Enalapril,20080427,kathy
+MO327,Cilnidipine,20080427,kathy
+MO328,Cilostazol,20080427,kathy
+MO329,Danaproid,20080427,kathy
+MO33,Topotecan,20070219,kathy
+MO330,Dilazep,20080427,kathy
+MO331,Diltiazem,20080427,kathy
+MO332,Indomethacin,20080427,kathy
+MO333,Lovastatin,20080427,kathy
+MO334,Nicardipine,20080427,kathy
+MO335,Nifedipine,20080427,kathy
+MO336,Nilvadapine,20080427,kathy
+MO337,Nisoldipine,20080427,kathy
+MO338,Nitrendipine,20080427,kathy
+MO339,Probucol,20080428,kathy
+MO34,Paclitaxel,20070219,kathy
+MO340,Spirinolactone,20080429,kathy
+MO341,Sulodexide,20080429,kathy
+MO342,Tranilast,20080429,kathy
+MO343,Urokinase,20080429,kathy
+MO344,Aminoguanidine,20080429,kathy
+MO345,Fasudil,20080429,kathy
+MO346,Fluvastatin,20080429,kathy
+MO347,Tesaglitazar,20080429,kathy
+MO349,Tolrestat,20080429,kathy
+MO35,Docetaxel,20070219,kathy
+MO350,Lisofylline,20080429,kathy
+MO351,Dichloroacetic acid,20080501,kathy
+MO352,Chlorpromazine,20080610,kathy
+MO353,DFMO,20080615,kathy
+MO355,Tocopherols (see Vit E),20080619,kathy
+MO356,Ponicidin,20080716,kathy
+MO357,Estradiol,20080804,kathy
+MO358,Bromelain,20080908,kathy
+MO359,Digitalis,20080908,kathy
+MO36,Doxorubicin,20070219,kathy
+MO360,Liminal therapy,20080908,kathy
+MO361,Mannoheptulose,20080909,kathy
+MO362,Paracetamol,20080909,kathy
+MO363,Vitiligo,20080909,kathy
+MO365,Caffeine,20080914,kathy
+MO366,Carvedilol,20080914,kathy
+MO367,Ebrotidine,20080914,kathy
+MO368,Fluconazole,20080914,kathy
+MO369,G-CSF,20080914,kathy
+MO37,Epirubicin,20070219,kathy
+MO370,GM-CSF,20080914,kathy
+MO371,Omeprazole,20080915,kathy
+MO372,Sulglycotide,20080915,kathy
+MO373,Refocoxib,20081030,kathy
+MO374,Rolipram,20081030,kathy
+MO375,Ramipril,20081103,kathy
+MO376,Atorvastatin,20081103,kathy
+MO377,Tadalafil,20081105,kathy
+MO378,Theohylline,20081109,kathy
+MO379,Ulinistatin,20081109,kathy
+MO38,Daunarubicin,20070219,kathy
+MO380,Luteolin,20081112,kathy
+MO381,Apigenin,20081112,kathy
+MO39,Idarubicin,20070219,kathy
+MO4,Ifosfamide,20070219,kathy
+MO40,Mitoxantrone,20070219,kathy
+MO41,Dactinomycin,20070219,kathy
+MO42,Vincristine,20070219,kathy
+MO43,Vinblastine,20070219,kathy
+MO44,Vinorelbine,20070219,kathy
+MO45,Estramustine,20070219,kathy
+MO46,Retinoids (see Vit A),20070219,kathy
+MO48,Fludarabine,20070219,kathy
+MO49,Cladribine,20070219,kathy
+MO5,Melphalan,20070219,kathy
+MO50,Suramin,20070219,kathy
+MO51,Bleomycin,20070219,kathy
+MO52,L-Asparaginase,20070219,kathy
+MO53,DES,20070219,kathy
+MO54,Testosterone,20070219,kathy
+MO55,Lapatinib,20070219,kathy
+MO56,Erlotinib,20070219,kathy
+MO57,Cetuximab,20070219,kathy
+MO58,Goserelin,20070219,kathy
+MO59,Vit D (general category),20070221,kathy
+MO6,Chlorambucil,20070219,kathy
+MO60,Aminophenols,20070221,kathy
+MO61,Saw palmetto,20070222,kathy
+MO62,Satraplatin,20070222,kathy
+MO63,Abarelix,20070222,kathy
+MO64,Vorinostat,20070222,kathy
+MO66,Calcitriol (see Vit D),20070222,kathy
+MO67,Sulfasalazine,20070222,kathy
+MO68,Rapamycin,20070222,kathy
+MO69,Curcumin,20070222,kathy
+MO7,Busulfan,20070219,kathy
+MO70,Celocoxib (see COX-2 inhibitor),20070222,kathy
+MO71,Resveratrol,20070222,kathy
+MO72,Genistein,20070222,kathy
+MO73,Ditiocarb (Imuthiol),20070222,moshe
+MO75,Gabapentin,20070226,moshe
+MO76,Cimetidine,20070226,moshe
+MO77,Photodynamic therapy,20070306,kathy
+MO78,Thiazolidinediones,20070307,kathy
+MO79,Sipuleucel-T,20070307,kathy
+MO8,BCNU,20070219,kathy
+MO80,TZD18,20070308,kathy
+MO81,Imatinib,20070308,kathy
+MO82,Pelotherapy,20070310,moshe
+MO83,Green tea,20070311,kathy
+MO85,Fenretinide,20070311,kathy
+MO86,Seocalcitol (see Vit D),20070312,kathy
+MO87,montmorillonite calcium (clay),20070313,moshe
+MO88,Cryptophycin,20070314,kathy
+MO89,mifepristone,20070318,kathy
+MO9,Streptozotocin,20070219,kathy
+MO90,BHAP,20070318,kathy
+MO91,Betulinic acid,20070318,kathy
+MO92,Silibinin/Silymarin,20070318,kathy
+MO93,Temsirolimus (CCI-779),20070318,kathy
+MO94,Sulforaphane (SFN),20070318,kathy
+MO95,Iron chelators,20070318,kathy
+MO96,NSAIDs,20070320,kathy
+MO97,Hyperthermia,20070320,kathy
+MO98,Vit E,20070320,kathy
+MO99,Carotenoids,20070320,kathy

@@ -1,0 +1,8 @@
+id,subject,details,sourceId,ComArtId,ComSourceId,diseaseId,modalityId,ComPathID,ComCatID,ComUserID,level,ComPathReg,isClinical,isVivo,isVitro,enteredDate,enteredBy
+9,Gabapentin reduces hot flashes in breast cancer patients,Gabapentin reduces hot flashes in breast cancer patients,0,0,0,DS85,MO75,,CT2,Moshe,1,0,TRUE,FALSE,FALSE,20070226,moshe
+41,Calcitrol and docetaxel combo safe in prostate cancer,"37 pts given 0.5 microgms/kg of oral calcitrol on day 1, then docetaxel 36mg/m2 on day 2 qwk x 6wk Q8wk.
+81% achieved PSA response without added toxicity.",0,0,0,DS25,MO59,,CT2,Kathy,0,0,TRUE,FALSE,FALSE,20070305,kathy
+67,Weekly high-dose calcitriol and docetaxel in metastatic androgen-independent prostate cancer.,37 pts treated with calcitriol 0.5mgms/kg on day 1 followed by docetaxel 36mg/m(2) day 2 qwk x 6wks q8wks. 30/37 pts achieved  reduction in PSA.,0,0,0,DS25,MO59,,CT2,Kathy,1,0,TRUE,FALSE,FALSE,20070311,kathy
+68,Weekly high-dose calcitriol and docetaxel in metastatic androgen-independent prostate cancer.,37 pts treated with calcitriol 0.5mgms/kg on day 1 followed by docetaxel 36mg/m(2) day 2 qwk x 6wks q8wks. 30/37 pts achieved  reduction in PSA.,0,0,0,DS25,MO35,,CT2,Kathy,1,0,TRUE,FALSE,FALSE,20070311,kathy
+1319,Doxy helps OA,"431 women with OA received 100 mg doxycycline or placebo bid x 30 mos. After 16 mos, the mean loss of jt space width in the index knee in the Rx'd grp was 40% less than placebo grp and after 30 mos, it was 33% less.  At f/u, fewer subjects in Rx'd grp rep",0,0,0,DS74,MO193,,CT3,Kathy,1,0,TRUE,FALSE,FALSE,20071226,kathy
+1662,Valproic acid inhibits gyn ca,Valproic acid sig inhibited human endometrial and ovarian tumor growth without toxic SEs.,0,0,0,DS197,MO107,,CT2,Kathy,2,0,FALSE,TRUE,TRUE,20080207,kathy
